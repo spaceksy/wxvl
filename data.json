@@ -14196,5 +14196,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795139&idx=3&sn=b778c50dbe57ec7066741e4845436a97": "英特尔新漏洞：Spectre 和 Meltdown 问题以新面貌重现",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=3&sn=10037ca1fbd8c7838d112015fa3f790a": "漏洞预警 | Tornado日志解析器拒绝服务漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=1&sn=ba311501aea1738fee819c57be6d8fb8": "你来你也能RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=3&sn=b1a886e267100e64534156c33ef90cf8": "泥煤的，又一次RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=3&sn=b1a886e267100e64534156c33ef90cf8": "泥煤的，又一次RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251875&idx=1&sn=9a043be40ff683ba496f06b8b7751a0d": "全球政府邮件系统沦陷：黑客利用XSS漏洞发起大规模间谍活动",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487931&idx=1&sn=619675b41f1728c3b4c80174458886fc": "英特尔CPU再曝高危漏洞！新型内存泄漏与Spectre v2攻击卷土重来，全球数亿设备陷风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=6&sn=ca5cfa1a13553a7ca1e6275272df5480": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497482&idx=1&sn=9edef1806d3d5a33f39a791c117051b1": "【漏洞通告】Tornado日志解析器拒绝服务漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=2&sn=5f6cc2e7c15eaedaeee640db0de55211": "任意用户登录漏洞挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497482&idx=2&sn=c4323bf9b8cda0593c734ced7ac81e19": "【漏洞通告】FortiOS TACACS+身份认证绕过漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499088&idx=1&sn=c4a90fdea61d8a9d2f7ef91d73d10f06": "poc | Windows 远程桌面网关 (RD Gateway) CVE-2025-21297介绍",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=8&sn=ce5bf568df9fe4ae7bc231f3412e006e": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506397&idx=1&sn=58e38d3ae77e44376fa837ad9099a059": "入侵我的车，甚至你的车——大众汽车应用程序存在安全漏洞"
 }
