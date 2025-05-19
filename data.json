@@ -14233,5 +14233,12 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594242&idx=2&sn=a1d093e798d1c33be4ce0d793de7964b": "高危WordPress插件漏洞威胁超1万个网站安全",
     "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247548030&idx=1&sn=881b572138f84344fc12533b1b8678a4": "网络安全20年：从漏洞破解到AI防御的生态跃迁",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495987&idx=2&sn=e622c43d6da910f8fc0ddd92ba8042f8": "上周关注度较高的产品安全漏洞(20250512-20250518)",
-    "https://mp.weixin.qq.com/s?__biz=MzI0OTIwMjE2NA==&mid=2247485943&idx=1&sn=dbecf68b3773ff21ac6c9ab455ef6eb4": "爱奇艺SRC暂停漏洞测试活动公告"
+    "https://mp.weixin.qq.com/s?__biz=MzI0OTIwMjE2NA==&mid=2247485943&idx=1&sn=dbecf68b3773ff21ac6c9ab455ef6eb4": "爱奇艺SRC暂停漏洞测试活动公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247487617&idx=1&sn=5876a6a3fbb1b810133e786da2badaa5": "CVE-2020-1472NetLogon权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=1&sn=904da7408fb841188b7ceee5ba2756f6": "【AI漏洞预警】huggingface transformers拒绝服务漏洞(CVE-2025-2099)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487940&idx=1&sn=ed7c9a4905f62eeeec22d209bba65844": "Firefox紧急修复两大零日漏洞！Pwn2Own柏林大赛黑客斩获$10万奖金",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516652&idx=1&sn=35138d273cf5a0924a961337315fdb87": "红队资产发现工具 -- ICPAssetExpress（5月19日）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzAwNzA4NA==&mid=2247485216&idx=1&sn=17314e6e6088de7b43fa8fd275de137a": "原创—中国乃至世界进入后门时代，挖漏洞该怎么挖",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497614&idx=1&sn=e6277cb245dd6b2a5691854377357140": "逻辑漏洞中一些自己总结关于验证码的漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484765&idx=1&sn=b9a2b63ae4870eaa17509553d1d15a2a": "Java代审&后台计划任务中的RCE攻击"
 }
