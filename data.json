@@ -14240,5 +14240,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516652&idx=1&sn=35138d273cf5a0924a961337315fdb87": "红队资产发现工具 -- ICPAssetExpress（5月19日）",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzAwNzA4NA==&mid=2247485216&idx=1&sn=17314e6e6088de7b43fa8fd275de137a": "原创—中国乃至世界进入后门时代，挖漏洞该怎么挖",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497614&idx=1&sn=e6277cb245dd6b2a5691854377357140": "逻辑漏洞中一些自己总结关于验证码的漏洞挖掘",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484765&idx=1&sn=b9a2b63ae4870eaa17509553d1d15a2a": "Java代审&后台计划任务中的RCE攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484765&idx=1&sn=b9a2b63ae4870eaa17509553d1d15a2a": "Java代审&后台计划任务中的RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488386&idx=1&sn=b9796901565c32f9f5e18643c53c5977": "PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494312&idx=1&sn=fae73d6e67898ee15bb7fb2ba7df7b11": "一个高性能的目录扫描工具，专门检测和验证 Web 中的路径遍历漏洞。通过异步并发扫描和智能 WAF 绕过技术，快速发现漏洞，",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247496619&idx=1&sn=cef5546181d6f6ba22d6e75da46caf4d": "SRC实战案例分享-验证码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484612&idx=1&sn=9ad84b9e19875df2e023e58224b89502": "若依4.8.0后台rce漏洞复现及内存马利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485691&idx=1&sn=c6cdd8256b68d350a4402fa121501d81": "kafka未授权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487935&idx=1&sn=0fd72220a31b600e0c52b18be2d3e2eb": "年薪30W+的秘密：网络安全\"挖漏洞\"必备的4类工具与漏洞复现指南",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900559&idx=1&sn=0a7c9fe1e7debd1234cb5693b067a809": "SAP漏洞风暴升级：BianLian、RansomExx及更多团伙利用组合拳攻击NetWeaver",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489110&idx=1&sn=bd7f08bd623117ea3652505c80ba5da9": "英特尔CPU再曝高危漏洞，新型内存泄漏与Spectre v2攻击卷土重来",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795151&idx=2&sn=fbe72b2822bdbe8de6113691b2162b1b": "大众汽车应用程序漏洞可致车主信息和服务记录泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=2&sn=477c546c495a1d59f2a34d685c7e88cc": "【漏洞预警】Invision Community themeeditor远程代码执行漏洞CVE-2025-47916",
+    "https://mp.weixin.qq.com/s?__biz=MzkzOTIwOTkxMQ==&mid=2247484065&idx=1&sn=80efa6ce84afb40f4fbefc74569e4e41": "Clash Verge 1-Click RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493169&idx=2&sn=7541877a92fcd02d5022cd061a332eb4": "漏洞预警 | 泛微E-Office SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493169&idx=3&sn=3651274bf140c0b87299a7ee5ced3a89": "漏洞预警 | 飞企互联FE业务协作平台任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487577&idx=6&sn=0d1f02515f463f5488a8ace5e841d877": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487577&idx=4&sn=2b3bbda702b95680bb8469041a55a91f": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655279355&idx=1&sn=48be8d46daba1f043071df066861692a": "2025年4月企业必修安全漏洞清单；Nmap网络安全审计技术揭秘"
 }
