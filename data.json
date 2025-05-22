@@ -14369,5 +14369,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533628&idx=1&sn=9cc7fec6b77c1987729a9c01de53e3dc": "漏洞安全亦是国家安全|斗象晋级CNNVD国家漏洞库首批“核心技术支撑单位”",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501099&idx=2&sn=33695589e4a03b131b18ffb1a4373bdb": "【漏洞通告】VMware vCenter Server认证命令执行漏洞(CVE-2025-41225)",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900577&idx=1&sn=c7f08fd41d1333cccb324baacf6a8b5d": "Samlify SSO 签名绕过 (CVE-2025-47949)：从XML签名本质到纵深防御",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484085&idx=1&sn=e447afc95940697dfe60767d5170f6ad": "【漏洞预警】vLLM PyNcclPipe pickle反序列化漏洞（CVE-2025-47277）"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484085&idx=1&sn=e447afc95940697dfe60767d5170f6ad": "【漏洞预警】vLLM PyNcclPipe pickle反序列化漏洞（CVE-2025-47277）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519372&idx=1&sn=50db0c7ee25f800969366f8c73e9e310": "PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494686&idx=1&sn=1e20b9324dc3599560e8064fd4f47aa5": "工具推荐 | RCE命令无回显利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491624&idx=1&sn=d3d39952455d901dbe67aa71b6c396da": "渗透工具箱V8 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测"
 }
