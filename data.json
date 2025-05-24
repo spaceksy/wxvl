@@ -14391,5 +14391,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=2&sn=3eb6fe83ca06d69dbd0a16a7c73dcde3": "Grafana 紧急提前修复已被公开的XSS 0day漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064169&idx=1&sn=803b3b6b86b1bf480ceaca8bb9dabf2f": "信息安全漏洞周报【第023期】",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTU1MTIzMQ==&mid=2247497184&idx=2&sn=bf66200c70e5ee156d8588806cf02fc6": "等保测评中漏洞扫描：筑牢网络安全防线的关键利器",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484091&idx=1&sn=3e944b94f1673ef22c24744564aa4aa6": "【漏洞复现】Grafana XSS &SSRF & 账户接管（CVE-2025–4123）"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484091&idx=1&sn=3e944b94f1673ef22c24744564aa4aa6": "【漏洞复现】Grafana XSS &SSRF & 账户接管（CVE-2025–4123）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=1&sn=13f091a5db5a8f5cb5088945cf935fee": "BadSuccessor 漏洞究竟有多严重？Akamai 和微软意见不一"
 }
