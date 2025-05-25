@@ -14432,5 +14432,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096267&idx=2&sn=8244bc202073633729ee396fd62547de": "Canon 打印机存在获取管理员权限漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520697&idx=1&sn=51ca3d136ea125c1f8234233268645d9": "PHP漏洞在白盒审计中的技巧（1）——PHP弱类型特性",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487021&idx=1&sn=5a6ba91dcddd6ea6ee05af338654b86b": "记一次拿下全校信息的漏洞+垂直越权",
-    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494692&idx=1&sn=684617c4357b88abab49bc9ffcaf9a76": "工具推荐 | Swagger API漏洞自动化填充参数利用工具"
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494692&idx=1&sn=684617c4357b88abab49bc9ffcaf9a76": "工具推荐 | Swagger API漏洞自动化填充参数利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491658&idx=1&sn=76946720de56c1de24e078e3b915fce0": "从 SSRF 到 RCE：一次众测Fastjson<=1.2.68反序列化RCE过程|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492983&idx=1&sn=3e2ccbfad6e42c1a2476834c0dce0e29": "英国电信服务提供商 O2 UK 修复了通呼叫定位用户位置的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486722&idx=1&sn=2836d5e911cdf2aa4fc1475c3d04ebeb": "漏洞挖掘 | 简单的弱口令到垂直越权思路分享",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115887&idx=1&sn=b4d3b673f74438831977b77e70d5fcf1": "汉堡王备份系统RCE漏洞被4000美元售卖"
 }
