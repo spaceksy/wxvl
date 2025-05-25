@@ -14418,5 +14418,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485719&idx=1&sn=80c65694743eb5e5397583d0620d9b99": "通过隐藏接口发现ruoyi和druid漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526395&idx=1&sn=279a519e4641fc56d846eada10848a35": "BurpSuite插件 | 告别手动测试，快速挖掘漏洞！",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490577&idx=1&sn=5caabf72c585d8dfee19437414939fee": "【src】SRC漏洞挖掘｜优惠券叠加思路分享",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530175&idx=3&sn=ed3f3dfe8ff9ec12404b9144c9d870e5": "Windows Server 2025 漏洞（BadSuccessor）暴露 Active Directory 帐户"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530175&idx=3&sn=ed3f3dfe8ff9ec12404b9144c9d870e5": "Windows Server 2025 漏洞（BadSuccessor）暴露 Active Directory 帐户",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096267&idx=1&sn=d22225f6ef431db6c818763e332e5630": "Apple XNU 内核提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487407&idx=1&sn=b0189ed709faf9ebae19ae93fbff7191": "Java代码审计 | Alibaba Sentinel SSRF漏洞代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491585&idx=1&sn=52371eb8c1d25ba8b609667758a65c0c": "宏景eHR searchCreatPlanList.do SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497458&idx=2&sn=83b3d6b176b026d4e3dd7f6ad53ca91f": "文件包含漏洞：一场网络安全的“谍影重重”？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321719&idx=3&sn=26247fefa30803d1ea9eb6b0bf5265bf": "GitLab Duo AI编程助手漏洞可让攻击者通过隐藏提示劫持AI响应",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488480&idx=1&sn=8afdd1d2cfe9f2e9f4658c8ea95d2469": "XXE：高级 XXE 漏洞利用完整指南",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497368&idx=1&sn=3601f98d7f63a8be5b429802b5b2d26d": "一款功能强大的通用漏洞扫描器-Sirius！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491575&idx=1&sn=0be139de91d844441cd7997712973fd0": "万户 ezOFFICE govdocumentmanager_judge_receivenum.jsp SQL 注入漏洞"
 }
