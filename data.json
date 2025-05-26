@@ -14472,5 +14472,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488481&idx=1&sn=b98bf997e66b4d0f1196ca7c19b0dfd0": "查找高级文件上传漏洞的完整指南",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484806&idx=1&sn=be2659279b030eef5e06feca6531b7ad": "【漏洞预警】Grafana未授权跨站点脚本攻击xss和SSRF漏洞（CVE-2025-4123）",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507761&idx=1&sn=ef3242ad509ed6a12634f21f802dcd5d": "漏洞通告 | Grafana 开放重定向与服务端请求伪造漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503427&idx=1&sn=68e2ee9124e84ee0b05694b0952cec7f": "安全热点周报：Ivanti EPMM 远程代码执行漏洞已被利用于有限的攻击中"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503427&idx=1&sn=68e2ee9124e84ee0b05694b0952cec7f": "安全热点周报：Ivanti EPMM 远程代码执行漏洞已被利用于有限的攻击中",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211870&idx=1&sn=e5eb84aa661afeffb2798381b6d15335": "浅析SpringBoot框架常见未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491671&idx=1&sn=c5f692e69aee368494586d30ac95d47b": "全新下一代目录爆破扫描工具，一个全方位的目录爆破的解决方案|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486487&idx=1&sn=3889ebfbd2f4edc0c3901392d6ce9585": "白盒Sign加密到前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496855&idx=2&sn=19a9d8e0672c21ea10d987febab0d279": "历史首次！o3找到Linux内核零日漏洞，12000行代码看100遍揪出，无需调用任何工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514421&idx=2&sn=cce953e1f93937d286c85ab93f963865": "首次利用OpenAI o3模型发现Linux内核零日漏洞"
 }
