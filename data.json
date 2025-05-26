@@ -14460,5 +14460,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489795&idx=1&sn=a8d894b25d88572f7cedf21034f26c27": "【0day】某无提示云挖矿4链盗u系统前台文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519543&idx=1&sn=1a444807e71915e56cc6ce6ba82aa495": "工具 | 漏洞挖掘小工具-SeeMore",
     "https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247507055&idx=1&sn=f87c3e85fc53e0b53da2054598728cda": "Web3 漏洞眼: Cetus AMM 2 亿美元被黑事件",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496002&idx=2&sn=85d90003c5777cda7d6cdc539c3b982d": "上周关注度较高的产品安全漏洞(20250519-20250525)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496002&idx=2&sn=85d90003c5777cda7d6cdc539c3b982d": "上周关注度较高的产品安全漏洞(20250519-20250525)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932190&idx=1&sn=c30630174b2223f93458c6ee9e77de2b": "OpenAI大语言模型漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321761&idx=4&sn=8aa3eb79d0743637147049e31344da8e": "黑客组织ViciousTrap利用思科漏洞入侵84个国家，构建全球蜜罐网络",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069834&idx=1&sn=335db8c1f2b23d140ba49e50ec855ed0": "【安全圈】ViciousTrap 利用思科漏洞操控全球 5,300 台设备构建蜜罐监控网络",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136993&idx=2&sn=24ab2dba798f4bcf2ce2dab974ee8d55": "地盘战打响，DragonForce争夺勒索软件市场主导权；AI助手DIANNA首次成功识别大语言模型生成的恶意软件 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900594&idx=1&sn=49967bc1a632a5d21d61181929a64604": "Windows Server 2025 “BadSuccessor”漏洞解析：dMSA 新特性反成“权限赠予后门”，域控一击即溃",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506384&idx=1&sn=d41497eacbe57bb1d5fa6beafb7f122a": "每周网安资讯 （5.20-5.26）| Poedit 安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496002&idx=1&sn=42ceff19e40ee69f47921352b4acc3b9": "CNVD漏洞周报2025年第19期",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492400&idx=1&sn=b6a3819edf4e9dfeb14515aab465825a": "618 领券 | 稍后读软件 Pocket 即将关闭，这个更强的工具能担起重任！",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488481&idx=1&sn=b98bf997e66b4d0f1196ca7c19b0dfd0": "查找高级文件上传漏洞的完整指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484806&idx=1&sn=be2659279b030eef5e06feca6531b7ad": "【漏洞预警】Grafana未授权跨站点脚本攻击xss和SSRF漏洞（CVE-2025-4123）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507761&idx=1&sn=ef3242ad509ed6a12634f21f802dcd5d": "漏洞通告 | Grafana 开放重定向与服务端请求伪造漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503427&idx=1&sn=68e2ee9124e84ee0b05694b0952cec7f": "安全热点周报：Ivanti EPMM 远程代码执行漏洞已被利用于有限的攻击中"
 }
