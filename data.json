@@ -14498,5 +14498,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483869&idx=1&sn=2d72368d0c27aad90b94fc523069a699": "研究者利用OpenAI o3模型发现Linux内核远程零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU1MTE1MjU5Nw==&mid=2247485609&idx=1&sn=4ed56a37679b5c97087104dee6927274": "ComfyUI存在多个高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490772&idx=1&sn=91e17e7d01c13ca1a0cb4f15eccf1d69": "实战SRC挖掘｜微信小程序渗透漏洞复盘",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251917&idx=1&sn=c14ea2340b3bf7692b029ded8d2084cc": "西班牙汉堡王备份系统遭遇RCE漏洞威胁，黑客4000美元叫卖访问权限。"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251917&idx=1&sn=c14ea2340b3bf7692b029ded8d2084cc": "西班牙汉堡王备份系统遭遇RCE漏洞威胁，黑客4000美元叫卖访问权限。",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137007&idx=2&sn=1aaad1f68d3e1cc0bb3260721d30302c": "量子计算破解RSA加密难度降低20倍，后量子密码学迫在眉睫；国家网络安全通报中心提醒：ComfyUI存在多个高危漏洞 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523124&idx=1&sn=1a8e46e871f1fae51bb1c752be774842": "CISA提醒注意已遭利用的 Commvault 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=2&sn=1b3a904c690bb5f4b6fcc44d8df3cdca": "【漏洞预警】DedeCMS信息泄露漏洞(CVE-2025-5137)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523124&idx=2&sn=11426f6aaac01c747218a552ac6e5129": "GitLab Duo 漏洞可导致攻击者通过隐藏的提示劫持AI响应",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173069&idx=3&sn=2d17e34234a8bcc099915e7259d98609": "通报丨ComfyUI存在多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496521&idx=1&sn=441184115eaa124aa26bc2b165f7247b": "【论文速读】|基于大型语言模型的上下文增强漏洞检测",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247499635&idx=1&sn=cca778a3a8b5c545de9edc8d2a4f2c92": "【漏洞与预防】Microsoft Windows 文件资源管理器欺骗漏洞预防",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247492421&idx=1&sn=899c37a36234e4c8668f3f56303615fe": "2个月荣登字节SRC年榜第一，云上漏洞秘籍首公开！",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096281&idx=2&sn=eacfc63c8ed2750785941e88c3fd39d7": "Apache Tomcat 允许远程执行代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321929&idx=3&sn=06c0967ba8410e5a847655591077514b": "Windows Server 2025 \"BadSuccessor\" 漏洞曝光，可导致域控接管",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=1&sn=208226258cd185a7acfbdbfd55481e6d": "【高危漏洞预警】Wing FTP Server安全漏洞CVE-2025-5196"
 }
