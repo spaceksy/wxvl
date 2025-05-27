@@ -14509,5 +14509,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247492421&idx=1&sn=899c37a36234e4c8668f3f56303615fe": "2个月荣登字节SRC年榜第一，云上漏洞秘籍首公开！",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096281&idx=2&sn=eacfc63c8ed2750785941e88c3fd39d7": "Apache Tomcat 允许远程执行代码漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321929&idx=3&sn=06c0967ba8410e5a847655591077514b": "Windows Server 2025 \"BadSuccessor\" 漏洞曝光，可导致域控接管",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=1&sn=208226258cd185a7acfbdbfd55481e6d": "【高危漏洞预警】Wing FTP Server安全漏洞CVE-2025-5196"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=1&sn=208226258cd185a7acfbdbfd55481e6d": "【高危漏洞预警】Wing FTP Server安全漏洞CVE-2025-5196",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486382&idx=1&sn=77eaf3570de212554a2bdba0e7f1d755": "若依Vue漏洞检测工具 - ruoyi-Vue-tools",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484564&idx=1&sn=6fb78c41406e38426eb86081c19246cc": "漏洞挖掘—利用查询功能获取敏感信息（3）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488502&idx=1&sn=c417e10a497251134c3d81775de5d501": "Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321929&idx=4&sn=7c4223920cb17acbc65fb665c7da7365": "Mesh Wi-Fi存在CVSS 9.1分高危漏洞，设计缺陷可被用于数据帧注入攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650468805&idx=1&sn=3b1ae29229283c236d11a6e8d149bc7e": "十四年连冠｜绿盟漏洞扫描与管理产品再获佳绩",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096281&idx=1&sn=de29f14ed3da4e130ab8507f590898de": "Arm Mali GPU 漏洞允许绕过 MTE 和任意内核代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491246&idx=2&sn=f2821c44d28004e6cdeda1a403564f5f": "雷神众测漏洞周报2025.5.19-2025.5.25",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521136&idx=1&sn=e6e3e3b78b2343b548d40246af0c841f": "记某众测Fastjson<=1.2.68反序列化RCE过程",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503419&idx=1&sn=ec858e748fb40bf4b477958bc4ede59b": "雷神众测漏洞周报2025.5.19-2025.5.25"
 }
