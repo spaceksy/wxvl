@@ -14606,5 +14606,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488861&idx=1&sn=36092d38e428c6737bfc7a2291f944c2": "逻辑漏洞-使用 SSO 登录进行帐户接管",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247489500&idx=1&sn=59a42b9399b76744b3f91a726a0a112b": "SSRF漏洞详细讲解：攻击者是怎么“骗”服务器发起请求的",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247503379&idx=2&sn=4a8f5498d392abb3a38ba91d4ea372a0": "NIST发布“漏洞预测指标”，大幅提升漏洞管理能力",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501121&idx=2&sn=50940420fb1e9fde2dce1f8f6a5226ae": "【漏洞通告】Google Chrome V8越界写入漏洞(CVE-2025-5280)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501121&idx=2&sn=50940420fb1e9fde2dce1f8f6a5226ae": "【漏洞通告】Google Chrome V8越界写入漏洞(CVE-2025-5280)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322005&idx=3&sn=d6c7633db1eb521d22d9cebac3887e7e": "留言赠书 | 《攻击网络协议：协议漏洞的发现+利用+保护》免费送",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489911&idx=1&sn=e62b6002552b1ab6dba42242d593c2ed": "线上支付漏洞：开启 “ 0元购 ” ？",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=1&sn=2b0d058ac337d26093a5ae849717e3dd": "【安全圈】微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247484579&idx=1&sn=d63ab9b5f7fbe189c2a020ffb04d6e7a": "代码审计Sign加密到前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247555294&idx=3&sn=09075eb75bc68c89437d35c5ddb10181": "利用验证框架 JAIST揭示开源自动驾驶系统的安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNDMyNjI3Mg==&mid=2247487449&idx=1&sn=e45fed21e096e9ff0f6a128f16bf1ef9": "java代码执行(eval)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523149&idx=1&sn=0298267a08369cc3ea9bdbdec81eb788": "看我如何通过 OpenAI o3 挖到 Linux 内核远程 0day",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503765&idx=1&sn=c91971d705c969009f7e9fd460725ad0": "“粽”享礼金，挖洞必“粽”，端午0DAY竞渡挑战赛开启！"
 }
