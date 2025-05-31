@@ -14672,5 +14672,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489309&idx=1&sn=864847316fc192abf5f5e40335561587": "【儿童节快乐】CVE-2025-4664：单个标头泄露敏感数据",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485965&idx=2&sn=7232cafb03fec2e869598e3a44b90dc9": "CVE-2025-41225｜VMware vCenter Server认证命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503344&idx=1&sn=47318095da170602a78b16e9007566c9": "【成功复现】Grafana开放重定向&服务端请求伪造漏洞(CVE-2025-4123)",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485872&idx=1&sn=e8c6a248f0321285efde17d965c6bf62": "地大信息-基础信息平台 GetImg 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485872&idx=1&sn=e8c6a248f0321285efde17d965c6bf62": "地大信息-基础信息平台 GetImg 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488620&idx=2&sn=6d2e7297bd61a2b100e43046c8973c60": "Pwn2Own 爱尔兰 - QNAP SQL 注入 RCE"
 }
