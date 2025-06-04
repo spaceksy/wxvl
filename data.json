@@ -14820,5 +14820,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664243600&idx=1&sn=a254cce915bb8018f5d4620176b69f20": "CNNVD | 关于Google Chrome安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503443&idx=1&sn=763f543a4089f1b08833ccbac7059be5": "【新安全事件】vBulletin 远程代码执行漏洞(CVE-2025-48827)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzU0NTU5NTA4NQ==&mid=2247491726&idx=1&sn=a620064d4be426858ff4515ad6baa67d": "CVE-2020-11800 Zabbix 命令注入漏洞复现",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=1&sn=6ead40fb0a70735a161f4ecd984a3f01": "谷歌悄悄紧急修复已遭利用的 Chrome 0day"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=1&sn=6ead40fb0a70735a161f4ecd984a3f01": "谷歌悄悄紧急修复已遭利用的 Chrome 0day",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519424&idx=1&sn=d2898555db99efec97a2a0bf0a748284": "CNVD通用型漏洞挖掘-app逻辑缺陷的两个挖掘案例",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485894&idx=1&sn=c532159a5a85d9939354104532ecd411": "唯德科创 IPEasy 知易通 DownloadFile 任意文件下载漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=2&sn=26d52c8caaf272e72f132b255994b95a": "【高危漏洞预警】Roundcube Webmail upload.php _from反序列化代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=1&sn=8796151f4fa121bbb37bd0cbfe9f8b11": "【AI高危漏洞预警】llama_index DuckDBVectorStore SQL注入漏洞CVE-2025-1750",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491941&idx=1&sn=180a7a72b014cd3156a1f44dee242368": "最新xxl-job综合漏洞检测利用工具|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463091&idx=1&sn=cf5d4e1447040ab6b1b31484430e7834": "CNNVD关于Google Chrome安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322480&idx=4&sn=1305aad8febb12c5f092cba247ab1534": "谷歌紧急发布安卓安全更新，修复多项高危漏洞"
 }
