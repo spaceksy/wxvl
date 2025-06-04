@@ -14827,5 +14827,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=1&sn=8796151f4fa121bbb37bd0cbfe9f8b11": "【AI高危漏洞预警】llama_index DuckDBVectorStore SQL注入漏洞CVE-2025-1750",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491941&idx=1&sn=180a7a72b014cd3156a1f44dee242368": "最新xxl-job综合漏洞检测利用工具|漏洞探测",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463091&idx=1&sn=cf5d4e1447040ab6b1b31484430e7834": "CNNVD关于Google Chrome安全漏洞的通报",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322480&idx=4&sn=1305aad8febb12c5f092cba247ab1534": "谷歌紧急发布安卓安全更新，修复多项高危漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322480&idx=4&sn=1305aad8febb12c5f092cba247ab1534": "谷歌紧急发布安卓安全更新，修复多项高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096308&idx=1&sn=d4d276386458934743383a476c8c2723": "新的 Safari XSS 漏洞利用 JavaScript 错误处理来执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501362&idx=1&sn=01b71332a9c7c08f19fa2bd90f837ca6": "Vul情报 | CVE-2025-4123 漏洞（附EXP）"
 }
