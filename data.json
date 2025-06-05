@@ -14845,5 +14845,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491203&idx=1&sn=fc7e23abd6f5825773985e6accd83d0d": "spring内存马-Interceptor构造",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507774&idx=1&sn=d12eb0b53d048871be85e2a2f8db6bf4": "微步情报局发现DataEase存在多个高危漏洞，可实现RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=3&sn=181705888a549777ca5ddc60469799af": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503426&idx=1&sn=115407d3c71a09bb32a1e396ce382f5a": "雷神众测漏洞周报2025.5.26-2025.6.2"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503426&idx=1&sn=115407d3c71a09bb32a1e396ce382f5a": "雷神众测漏洞周报2025.5.26-2025.6.2",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490196&idx=1&sn=445a97e63142e9216294ebc4e1bea7ad": "【高危漏洞预警】Dataease JWT认证绕过&H2数据库远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512335&idx=1&sn=f2441cd275388321ab2e598a075770f8": "Windows RAR∕ZIP解压缩泄露NTLM哈希漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492805&idx=1&sn=30e47869ddf47a6cb5a92b70c81c266e": "【已复现】DataEase 远程代码执行漏洞（CVE-2025-49002、CVE-2025-49001）",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485866&idx=1&sn=f22b47fb7cbbdb28ea72a878b6f9d8fa": "Jenkins未授权访问-命令执行漏洞复现及修复方案",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491703&idx=1&sn=6775431a3523ce79579c880215420a9f": "世邦通信SPON-IP网络对讲广播系统 videobacktrackpush.php 任意文件上传漏洞"
 }
