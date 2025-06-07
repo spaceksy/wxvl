@@ -14928,5 +14928,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491721&idx=1&sn=bca6974ea87562392f4e4f205edb8ece": "杭州新威数字信息-SMG网关管理软件 9-12ping.php 命令执行漏洞 (CVE-2025-1448)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322725&idx=2&sn=a6d9bad6730f5365d0a54cf5c19b22bf": "6.11北京 | 报名FORCE原动力大会-大模型安全分会场 文末有福利",
     "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484110&idx=1&sn=e7c3b3595ccf8ca433e1a2e4c2b81c46": "【已复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485975&idx=1&sn=a3a96fcfeca034089636e9a89ae83d48": "CVE-2025-49113｜Roundcube Webmail反序列化漏洞（POC）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485975&idx=1&sn=a3a96fcfeca034089636e9a89ae83d48": "CVE-2025-49113｜Roundcube Webmail反序列化漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488934&idx=1&sn=0fa423fe5ba9e56f7d1ebc70b5d65fd4": "JS中的漏洞信息",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519442&idx=1&sn=c589daacc1be8e90294d6c18e509d2fb": "赚取50000美元的5个顶级 XSS PoC",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491495&idx=1&sn=28a749aa101664e76dd905dfc0081fe3": "网络安全人士必知的 AWVS 漏洞扫描工具"
 }
