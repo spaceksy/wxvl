@@ -14943,5 +14943,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497601&idx=2&sn=593538deb4ffaacfce66f628dd85cb2b": "当系统崩盘，Busybox 如何成为你的“诺亚方舟”？漏洞排查的另类视角",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492228&idx=1&sn=c34908aad1f300b0110c037b878907ff": "重生之我在异世界做代码审计(BC篇)",
     "https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860720&idx=1&sn=700c43def3115706dbdf14b9634c3176": "16核CPU烧到100%！21节点六种漏洞扫描模式实测，这种模式让服务器暴走",
-    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624964&idx=1&sn=9fd73dd275e8e53d7e22338456f3503d": "小米：车联网安全漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624964&idx=1&sn=9fd73dd275e8e53d7e22338456f3503d": "小米：车联网安全漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486547&idx=1&sn=93d9c43f4d2dc8f85deb74ac8a811ba0": "某日志管理系统前台注入（0day）",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636125&idx=3&sn=7df424bc2d1af6076a707c4e7d7171fd": "Wireshark漏洞可通过恶意数据包注入引发拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611001&idx=4&sn=2dafbc946a12493ed35083385d421118": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486627&idx=1&sn=c0d293c64fcb84c997e3635d9f5fc033": "感谢大家的关注与支持 送两0DAY吧",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611001&idx=3&sn=670455cc4e7772dd06c444b99b4bb449": "实战攻防中的代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503392&idx=1&sn=5292f042bdea8bb3d2fd6e87cb7a2ca2": "【成功复现】vBulletin远程代码执行漏洞(CVE-2025-48827&CVE-2025-48828)"
 }
