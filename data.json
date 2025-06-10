@@ -15041,5 +15041,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503473&idx=1&sn=46559985ab4d7f8502c1c9f1268ebaac": "Apache Kafka 多个高危漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595541&idx=1&sn=ca1223787e388345e955ac4b09a7ffad": "Fuzz挖掘sudo提权漏洞：一次堆溢出如何逆向分析出提权思路",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555093&idx=1&sn=fd9d6588ba43744ec9add8e7e6f99d9f": "玩转网络漏洞挖掘，实战能力弯道超车",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484429&idx=1&sn=cb4fd855f8a0f2ad59111e3ef81bcdfb": "【漏洞预警】Apache Kafka Connect任意文件读取漏洞风险通告"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484429&idx=1&sn=cb4fd855f8a0f2ad59111e3ef81bcdfb": "【漏洞预警】Apache Kafka Connect任意文件读取漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489508&idx=1&sn=0bfab3f39b28fb33bba8abd281d49b07": "Redis未授权漏洞复现汇总"
 }
