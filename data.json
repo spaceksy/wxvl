@@ -15100,5 +15100,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484887&idx=1&sn=68c33f216a071877dd2d8f6ee00de324": "【复现】契约锁远程代码执行漏洞风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247527122&idx=2&sn=c1ff1f433717b608b87e76da427bada1": "2025年5月企业必修安全漏洞清单",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493368&idx=3&sn=1d7e3c69c8fecfdf2342b4c2dd4a093f": "漏洞预警 | 金和OA任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494376&idx=1&sn=bfac9cacc14a4968dfc10275a87819e9": "DataEase 远程代码执行漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494376&idx=1&sn=bfac9cacc14a4968dfc10275a87819e9": "DataEase 远程代码执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492324&idx=1&sn=65e0c76bee8effecda8ad27ebd7b2eef": "攻防项目中的代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252007&idx=1&sn=41b8469177dae3520103786696e7603e": "Salesforce PaaS平台大规模宕机超6小时，众多网站功能受损",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503477&idx=1&sn=1410a653474bbb82b32dadab97a47c7b": "微软6月补丁日多个产品安全漏洞风险通告：1个在野利用、9个紧急漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487487&idx=1&sn=e7017d76417d578514aadbbcd40f83f7": "漏洞预警 |Kafka Connect存在任意文件读取漏洞（CVE-2025-27817）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497717&idx=1&sn=6efe3ab6e5bb1234ee1fb95dd939bdd6": "一个$1,337的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493999&idx=3&sn=c093f32039ae5e0e02166b94042cc5a2": "SAP 2025年6月安全补丁日修复关键NetWeaver漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589057&idx=1&sn=69805ab4a83aa1ab3e07c859fef8ec61": "代码审计某USDT寄售买卖平台系统",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486712&idx=1&sn=277f4b4f516792ce44bd7024784afc29": "【PHP代审】记一次某海外酒店管理系统漏洞复现分析+0day挖掘"
 }
