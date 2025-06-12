@@ -1,7 +1,10 @@
 #  当数据防线被一行代码击穿：Java代码审计能力已成刚需  
-38.5  天禧信安   2025-06-10 05:46  
+ Z2O安全攻防   2025-06-12 13:17  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcxkNodDFK3vS0jLLIXFEAtOCo3ENbB68USajFIqNbL6pRZYcUumXOMA/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcxkNodDFK3vS0jLLIXFEAtOCo3ENbB68USajFIqNbL6pRZYcUumXOMA/640?wx_fmt=gif "")  
+  
+关注我们丨  
+文末赠书  
   
   
 深夜告警响起——某金融平台千万用户数据在加密状态下被拖取。安全团队溯源发现：攻击者并未强攻数据库堡垒，而是利用了一个被遗忘的订单查询接口。一段未过滤的JSON反序列化代码，让整个权限体系形同虚设。 这不是电影情节，而是2023年某真实漏洞报告中的核心攻击路径。  
@@ -31,10 +34,11 @@ Java作为各类业务系统和中台服务的主流开发语言，广泛应用�
 **《Java代码审计实战》**  
 的初衷——为开发者与安全人员架起跨越认知鸿沟的桥梁。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcIYEk2NibnLTb2nrIyGichoKEsicsH0kRIXJ6e5Rz0RCtCroU4VxOkSf5w/640?wx_fmt=png&wxfrom=13&tp=wxpic "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcIYEk2NibnLTb2nrIyGichoKEsicsH0kRIXJ6e5Rz0RCtCroU4VxOkSf5w/640?wx_fmt=png "")  
   
 ▼  
 点击下方，即可购书  
+  
   
   
 Part.1  
@@ -48,12 +52,12 @@ Part.1
   
 第一部分为基础篇，该篇包含第1章，主要介绍Java Web环境的搭建、常见动态调试方法以及代码审计工具。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hc3PIYhDhBVhUjkjJu7HJktY5fIPX9mjJqCyTJoA6SfQVjfVqfhkvGJQ/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hc3PIYhDhBVhUjkjJu7HJktY5fIPX9mjJqCyTJoA6SfQVjfVqfhkvGJQ/640?wx_fmt=png "")  
   
   
 第二部分为入门篇，该篇包含第2章和第3章。其中，第2章主要介绍常见的Java漏洞类型以及漏洞原理；第3章以开源Java漏洞靶场Java-sec-code作为审计模版，运用知名代码审计工具CodeQL对该模版进行审计，在过程中加深读者对Java漏洞的理解以及熟悉CodeQL工具的使用。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcgr3MCXNyQ5gqI7T7GYCGq2BZIElVD1YdlZfJaRvAUSUClhhkwjIMRA/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcgr3MCXNyQ5gqI7T7GYCGq2BZIElVD1YdlZfJaRvAUSUClhhkwjIMRA/640?wx_fmt=png "")  
   
   
 第三部分为高级篇，该篇包含第4-6章。通过这3章，介绍常见的Java Web框架，并选择其中的典型框架漏洞进行详细的漏洞调试分析。  
@@ -61,7 +65,7 @@ Part.1
   
 第四部分为实践篇，该篇包含第7章。通过对真实的Java Web应用程序进行审计，详细介绍在实践中如何运用CodeQL审计工具来快速发现安全漏洞。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcgWw5gVczRSoaXyGJ5H16oRANibRTNIAmNpTAJfgCFRY7jeny8yZfD7g/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcgWw5gVczRSoaXyGJ5H16oRANibRTNIAmNpTAJfgCFRY7jeny8yZfD7g/640?wx_fmt=png "")  
   
   
 Part.2  
@@ -78,7 +82,7 @@ Part.2
   
 本书以初学者视角切入，从Java基础环境的搭建讲起，逐步引导读者理解漏洞原理、掌握手工审计技巧，并搭配主流审计工具与真实漏洞项目演练，构建出一条从“看懂代码”到“发现问题”再到“动手验证与修复”的完整闭环，让学习者真正具备独立进行 Java 代码安全审计的能力。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcPl4vU5f2ianAmOsicJa8MO4o5rHicubXPOyQKPLiapfpQSupOZzXicvtbyQ/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcPl4vU5f2ianAmOsicJa8MO4o5rHicubXPOyQKPLiapfpQSupOZzXicvtbyQ/640?wx_fmt=png "")  
   
   
 **2. 融合 CodeQL 与实战经验，兼顾传统方法与前沿技术。**  
@@ -92,22 +96,22 @@ Part.2
   
 编写查询XSS漏洞的CodeQL查询语句：  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcx8F6IcIIHwMfyF3iaI2a5lbJEMFPWbQZ8ibqLenVS47T4htyR4k9DbXg/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcx8F6IcIIHwMfyF3iaI2a5lbJEMFPWbQZ8ibqLenVS47T4htyR4k9DbXg/640?wx_fmt=png "")  
   
   
 得到XSS漏洞查询结果：  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcQK3SRoiaibaVnkLV5kPNPANSEMpLryQXrMffw0eWlibG51xIplu7nrf8w/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcQK3SRoiaibaVnkLV5kPNPANSEMpLryQXrMffw0eWlibG51xIplu7nrf8w/640?wx_fmt=png "")  
   
   
 根据查询结果定位漏洞代码位置：  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcG6lgaSibcryV8jRQKVqSqY8JR4167mUGfOxLyCPy5Seiap271gmryLQA/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcG6lgaSibcryV8jRQKVqSqY8JR4167mUGfOxLyCPy5Seiap271gmryLQA/640?wx_fmt=png "")  
   
   
 验证XSS漏洞：  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcoia5dPAMuwNsBFG7GlRa8ShkmAhwU97LUMgzedtoEsRYticlnBEKibicGw/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcoia5dPAMuwNsBFG7GlRa8ShkmAhwU97LUMgzedtoEsRYticlnBEKibicGw/640?wx_fmt=png "")  
   
   
 **3. 覆盖主流框架，贴近实际业务安全需求。**  
@@ -115,11 +119,11 @@ Part.2
   
 本书选取了实际工作中广泛使用的SSM、SSH、SpringBoot等开发框架进行深入分析，讲解其在真实业务环境中可能产生的漏洞及其审计思路。这种贴近实战的内容设计，能帮助读者在真实项目中快速定位问题、解决问题。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcEguI2KOszKLYic6reWYgvX0nY3typcUdTZPBGbOTm110GiawGDJ6byKw/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcEguI2KOszKLYic6reWYgvX0nY3typcUdTZPBGbOTm110GiawGDJ6byKw/640?wx_fmt=png "")  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcrXumicXkHvibViaqZe9FzPmAwNxCHVMVOfx3C7WiaMTBQM6e4PNibgCHhug/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcrXumicXkHvibViaqZe9FzPmAwNxCHVMVOfx3C7WiaMTBQM6e4PNibgCHhug/640?wx_fmt=png "")  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcSmLEuXgIbxe1sxutKSF7p9xSjaODs9BefJJxWficXxIXKDrkROymRLg/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcSmLEuXgIbxe1sxutKSF7p9xSjaODs9BefJJxWficXxIXKDrkROymRLg/640?wx_fmt=png "")  
   
   
 Part.3  
@@ -213,5 +217,13 @@ Part.6
 **让开发者在编码时预见风险，让安全人员在漏洞爆发前扼杀威胁。**  
   
   
-****  
+  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaibvmyz4605NibBt4J3RrP5AK8ibnkws1hcoUyXMcVLXtnw2Rwg75CtPkrTicY2B8AiaIVvUcxBe353nrbA1DFNvUlA/640?wx_fmt=png "")  
+  
+  
+在留言区参与互动，点赞数最高的1名读者获得赠书1本，截止时间6月16日12时。  
+  
+  
+  
   
