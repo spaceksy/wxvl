@@ -15108,5 +15108,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497717&idx=1&sn=6efe3ab6e5bb1234ee1fb95dd939bdd6": "一个$1,337的漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493999&idx=3&sn=c093f32039ae5e0e02166b94042cc5a2": "SAP 2025年6月安全补丁日修复关键NetWeaver漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589057&idx=1&sn=69805ab4a83aa1ab3e07c859fef8ec61": "代码审计某USDT寄售买卖平台系统",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486712&idx=1&sn=277f4b4f516792ce44bd7024784afc29": "【PHP代审】记一次某海外酒店管理系统漏洞复现分析+0day挖掘"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486712&idx=1&sn=277f4b4f516792ce44bd7024784afc29": "【PHP代审】记一次某海外酒店管理系统漏洞复现分析+0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487246&idx=1&sn=7a41868625893614f6da1bbdcda23a31": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484821&idx=1&sn=521d6f7191a4c623b04a751f998a3f05": "【漏洞复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487000&idx=1&sn=5be4c11c561976988ba5b9f0fff70ccb": "客户端漏洞挖掘方法论在车机系统中的延伸：任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489308&idx=1&sn=06cf92ea68b30f6d5c68df7116644ac7": "【安全更新】微软6月安全更新多个产品高危漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NTU5NTA4NQ==&mid=2247491785&idx=1&sn=9b23f6b5cbbaf45761d977ee905bed06": "CVE-2024-23897 Jenkins CLI接口 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611039&idx=3&sn=270f5fe6538f79d74f39aeae9e4815b0": "某景人事管理系统漏洞挖掘与分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530778&idx=1&sn=6e644b59f12b620f384bb9ae82d2e5bb": "CVE-2025-32717 Microsoft Word 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261302&idx=1&sn=7033acdbf40ec6570633f66664423697": "【CVE-2025-32711】全球首例 AI “零点击”漏洞：黑客可无声窃取Microsoft 365敏感数据​"
 }
