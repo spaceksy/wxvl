@@ -15164,5 +15164,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491568&idx=1&sn=35c5311b89a99e2d66e3d557819a5047": "清源SCA社区版每日漏洞情报、新增CVE及投毒情报推送",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492328&idx=1&sn=877dd3baec6be94332cc460166808bf0": "记一次实战日穿整个系统getshell-共九个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488300&idx=1&sn=4a32474b0aef6f2773b86d1411080556": "java审计之下载漏洞获取到的代码如何断点调试",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488011&idx=1&sn=db438e2b8d2a2c5a1639aac28411bc32": "漏洞预警 | Apache Kafka Connect任意文件读取与SSRF（CVE-2025-27817）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488011&idx=1&sn=db438e2b8d2a2c5a1639aac28411bc32": "漏洞预警 | Apache Kafka Connect任意文件读取与SSRF（CVE-2025-27817）",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211970&idx=1&sn=5908d942bc505116bc1c923b206b975f": "一文攻克小白噩梦：Java Web安全之代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582873&idx=1&sn=0b714276ab832a9ba16514a3d8bceb01": "新型Mirai僵尸网络通过命令注入漏洞感染TBK DVR设备",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512480&idx=1&sn=dcf723277dd1aec37f2aa37635844c78": "企业级VPN NetExtender任意文件删除到权限提升漏洞剖析",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=3&sn=945e6becb24f41d4dd077d47e9509f07": "Apache CloudStack漏洞使攻击者可破坏云基础设施系统",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491789&idx=1&sn=5885e0ee1c9dd9fab4cb35ea7bbd647e": "B-LINK AC1900 V1.0.2 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486704&idx=1&sn=1e59b5cc0f1b3b36a82ca5bb0b3457b6": "【漏洞预警】Windows WebDAV 客户端远程代码执行漏洞(CVE-2025-33053)",
+    "https://mp.weixin.qq.com/s?__biz=MzIwOTMzMzY0Ng==&mid=2247487885&idx=1&sn=31d1884087f8e107c916d1b9f330fc43": "XG_JLGJ靶场的几个POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248091&idx=1&sn=c2d0f17071027a75a6bb6b71e565fdcf": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据 | 威胁狩猎入门指南：专家级主动网络安全策略",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788688&idx=1&sn=62fe0c0fe52ec9535f10655b9c217d47": "微软Copilot曝首个零交互AI漏洞：一封普通邮件静默泄露企业敏感数据"
 }
