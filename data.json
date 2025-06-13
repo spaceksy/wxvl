@@ -15173,5 +15173,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486704&idx=1&sn=1e59b5cc0f1b3b36a82ca5bb0b3457b6": "【漏洞预警】Windows WebDAV 客户端远程代码执行漏洞(CVE-2025-33053)",
     "https://mp.weixin.qq.com/s?__biz=MzIwOTMzMzY0Ng==&mid=2247487885&idx=1&sn=31d1884087f8e107c916d1b9f330fc43": "XG_JLGJ靶场的几个POC",
     "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248091&idx=1&sn=c2d0f17071027a75a6bb6b71e565fdcf": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据 | 威胁狩猎入门指南：专家级主动网络安全策略",
-    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788688&idx=1&sn=62fe0c0fe52ec9535f10655b9c217d47": "微软Copilot曝首个零交互AI漏洞：一封普通邮件静默泄露企业敏感数据"
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788688&idx=1&sn=62fe0c0fe52ec9535f10655b9c217d47": "微软Copilot曝首个零交互AI漏洞：一封普通邮件静默泄露企业敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=3&sn=e1a2654d1eb8eb944bf1949b9ed09b40": "GitLab曝高危漏洞组合，攻击者可实现完全账户接管",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA2NzY3NA==&mid=2448689041&idx=2&sn=726c15b4a0668113a70c2f888efe629b": "CNNVD关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514513&idx=1&sn=67e663e82b15ccc4fb808170d7a081dc": "工信部：AI绘图工具ComfyUI多个安全漏洞已被用于实施网络攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523281&idx=2&sn=c4ed265127f77866bb9d4f397428f552": "Palo Alto Networks 修复多个提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247496910&idx=2&sn=f9ede51c8a4f7ac0b9b98b076c9d7acc": "每周安全速递³⁴⁵ | Play勒索团伙利用SimpleHelp漏洞实施双重勒索",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=4&sn=77515d1b0ea03422f212c22ce648451c": "中科GPS设备漏洞曝光，可导致车辆被控制和位置追踪",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484121&idx=1&sn=43b7919e71e92bcdd179e089796ce428": "契约锁电子签章系统dbtest远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096328&idx=1&sn=9f3ab73cf1559928f01fbf5e1ce41fdf": "Windows 任务计划程序允许攻击者提升权限漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595726&idx=2&sn=8c997ac7387fc908b287a6d0d561fe75": "苹果iOS现零点击漏洞，记者遭Graphite间谍软件入侵",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497725&idx=1&sn=9acb221e666940eb40092a4f96f6dd25": "RCE再现",
+    "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489260&idx=1&sn=51ba3d6560441abb6d16005aa88ecc6d": "关于防范人工智能绘图工具ComfyUI多个安全漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=2&sn=46c850fbda9bc82352ef57c89fdd96e8": "苹果iMessage零点击漏洞遭间谍软件利用，记者成监控目标",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523281&idx=1&sn=39fe6b4ec8cebc0a362c26c8fffbd2c7": "GitLab 修复高危的账户接管和认证缺失漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489173&idx=4&sn=571a093b587c5833a8ee8be5e53c00ca": "一次奇妙的降价支付逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489173&idx=6&sn=86ac44403dba82e570f2f0f07ff3715f": "智能汽车安全-漏洞挖掘到控车攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664244112&idx=2&sn=9428653919db114469090e0ec242111f": "CNNVD | 关于微软多个安全漏洞的通报"
 }

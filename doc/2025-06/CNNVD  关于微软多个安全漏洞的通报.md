@@ -1,7 +1,19 @@
-#  CNNVD关于微软多个安全漏洞的通报  
- 金盾信安   2025-06-13 09:59  
+#  CNNVD | 关于微软多个安全漏洞的通报  
+ 中国信息安全   2025-06-13 10:41  
   
-****  
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/1brjUjbpg5wfGHmCLAMic3YzibcufdkcNIB0k8GjeVQcKbMkfGBEs59gUBqnjv2tlbaXj1wlZyl75uMZXQG7qAkQ/640?wx_fmt=gif&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/1brjUjbpg5wfGHmCLAMic3YzibcufdkcNIz6syEq1yW486HjBVaFsoFdSxcrP2s7aFRFDtlzwB7cVOmztpfJgAVw/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/1brjUjbpg5wfGHmCLAMic3YzibcufdkcNIB0k8GjeVQcKbMkfGBEs59gUBqnjv2tlbaXj1wlZyl75uMZXQG7qAkQ/640?wx_fmt=gif&from=appmsg "")  
+  
+**扫码订阅《中国信息安全》**  
+  
+  
+邮发代号 2-786  
+  
+征订热线：010-82341063  
+  
   
 **漏洞情况**  
   
@@ -24,11 +36,11 @@ https://portal.msrc.microsoft.com/zh-cn/security-guidance
   
 此次更新共包括66个新增漏洞的补丁程序，其中高危漏洞42个，中危漏洞24个。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/g1thw9GoocfW5Z2lVVKADnSOaLPzP03P2o4QCTuhnJ4hznOb04fuzEZy4jtxuLPBOCTeBvTAKPU7eIRVVKxWdQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/g1thw9GoocfW5Z2lVVKADnSOaLPzP03PuyicNfNkudRXJ4L5p5LKQtT9n2UTRJ3mn7jVlicrEMCEb4r6r2hZVoSw/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
 此次更新共包括1个影响微软产品的其他厂商漏洞的补丁程序，其中中危漏洞1个。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/g1thw9GoocfW5Z2lVVKADnSOaLPzP03PLwJjEI2Pu2FUJpGDYgibibgDbQZIZmcj9Cfs75TUJBIOL8iaCHk4KthWQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/g1thw9GoocfW5Z2lVVKADnSOaLPzP03PIlzMzAs7Ixc0kI9aJBcZkR4g4HWmaWxF5x4BzAnKVFrw7MkV7OtySw/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
 ## 三修复建议  
   
@@ -37,13 +49,28 @@ https://portal.msrc.microsoft.com/zh-cn/security-guidance
   
 https://msrc.microsoft.com/update-guide/en-us  
   
-CNNVD将继续跟踪上述漏洞的相关情况，及时发布相关信息。如有需要，可与CNNVD联系。联系方式: cnnvd@itsec.gov.cn  
+CNNVD将继续跟踪上述漏洞的相关情况，及时发布相关信息。如有需要，可与CNNVD联系。联系方式：cnnvd@itsec.gov.cn  
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1JMd8aMOqNkic25xydKvYcCVEsHXvm506icfXiaFep4AfohjraUj3F2jMfg/640?wx_fmt=gif&from=appmsg "")  
+（来源：CNNVD）  
   
   
-来源：“CNNVD安全动态”微信公众号  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/73LRor7IX0AO3u9ZlT0SNwOmVQ0M8JV7kOFEeyl89Lt31YVQCkJauFJWezujcgv6vIRCMA0B27oTxDjNAlDmSg/640?wx_fmt=png&from=appmsg "")  
+**分享网络安全知识 强化网络安全意识**  
+  
+**欢迎关注《中国信息安全》杂志官方抖音号**  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1brjUjbpg5wfGHmCLAMic3YzibcufdkcNImWnib9tLTBgCCyeVVHBvaSibVOH44RHe5jNQbUeaw8ejFc1q6N3ibc1Qg/640?wx_fmt=jpeg&from=appmsg "")  
+  
+  
+**《中国信息安全》杂志倾力推荐**  
+  
+**“企业成长计划”**  
+  
+  
+**点击下图 了解详情**  
+  
+  
+  
+[](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664162643&idx=1&sn=fcc4f3a6047a0c2f4e4cc0181243ee18&scene=21#wechat_redirect)  
   
   
