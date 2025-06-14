@@ -15200,5 +15200,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485936&idx=1&sn=c8db53c1a830e5151464c1c31ff2ffd7": "同享人力管理管理平台 UploadHandler 任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488591&idx=1&sn=c235ea6352df7f47f2fc2bd6408c05c1": "Grafan存在url重定向&服务端请求伪造漏洞CVE-2025-4123 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzU5MTc1NTE0Ng==&mid=2247486069&idx=1&sn=686dff0eb15fbaf6950e19c95f008dba": "【漏洞复现】Kafka Connect任意文件读取漏洞 CVE-2025-27817",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNTEzMTA0Mw==&mid=2247496726&idx=1&sn=cb4a63b4ce5095d221332254bd5bbc8e": "CVE-2025-33073 漏洞：NTLM 反射攻击的绕过方法及影响"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTEzMTA0Mw==&mid=2247496726&idx=1&sn=cb4a63b4ce5095d221332254bd5bbc8e": "CVE-2025-33073 漏洞：NTLM 反射攻击的绕过方法及影响",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489218&idx=6&sn=77731b726421696f62ebfb236a653c3c": "智能汽车安全-漏洞挖掘到控车攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489218&idx=4&sn=fa277c4ca4189e8764162fab696c7a36": "一次奇妙的降价支付逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488984&idx=1&sn=90ec422c5c51bf0061ae125313358ac3": "PHP 类型杂耍漏洞：攻击者如何利用松散比较"
 }
