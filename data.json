@@ -15237,5 +15237,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMDM2MjY5NA==&mid=2247484254&idx=1&sn=b7b309dbe8f914abcb651cf418eef340": "金融业“解析差异”漏洞后续-POC",
     "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650561365&idx=1&sn=d2025cd80b7752f6432cb2830b922996": "【分析】以色列空袭伊朗事件暴露的伊朗防空体系漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499691&idx=2&sn=d8c9503412383552934b7d2b0ee8ed7f": "(CVE-2025-3415) 暴露Grafana Alerting中的DingDing API 密钥",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491705&idx=1&sn=aeeb5d16f0b1511b8d2413c49b170e7a": "【SRC】未授权访问漏洞的利用链：一口气到getshell的实践"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491705&idx=1&sn=aeeb5d16f0b1511b8d2413c49b170e7a": "【SRC】未授权访问漏洞的利用链：一口气到getshell的实践",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486693&idx=1&sn=7081e4b6b639e33b8a106b6d58f065e9": "AI代码审计：传统SAST还能走多远？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTU0OTAwOQ==&mid=2247483847&idx=1&sn=091150b687d6366c68918915aac717c8": "域大杀器 CVE-2025-33073 NTLM反射",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530905&idx=2&sn=d97f508faa27cf71ce0646619e5dfbd6": "CVE-2025-4123：Grafana 中通过开放重定向引发的 XSS",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530905&idx=3&sn=e213905f649075f85f3cb74fb755521a": "DanaBleed：DanaBot C2 服务器内存泄漏漏洞"
 }
