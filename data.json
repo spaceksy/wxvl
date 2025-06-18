@@ -15351,5 +15351,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486337&idx=1&sn=69f06f964a96e30b88d63f2d5a4e5f2e": "【工具分享】OSS漏洞检测工具",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488122&idx=1&sn=7dd4a081bf219591dd2dbc6b337abe09": "硬编码密码“b”引发重大风险！Sitecore XP漏洞威胁全球企业安全",
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283404&idx=1&sn=187c7df781065431e5dee9a956eb72ae": "2025年攻防演练必修高危漏洞合集",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521083&idx=1&sn=a91574dc7063fe2f72c42be0861abc94": "php代码审计篇 - 信呼OA 前台注入"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521083&idx=1&sn=a91574dc7063fe2f72c42be0861abc94": "php代码审计篇 - 信呼OA 前台注入",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492348&idx=1&sn=3459eb764f6bc4eef3a045f28ea47745": "【PHP代审】记一次某海外酒店管理系统漏洞复现分析+0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499890&idx=1&sn=03ae7202852a3f6cd511140924332eac": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484455&idx=1&sn=8bf8fbd3974c9a431d5598daf4fca49d": "域内大杀器 CVE-2025-33073 漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490784&idx=1&sn=03b9839ecd75272e21510ef54162c9c9": "众测攻防技术深度剖析：突破WAF、框架漏洞利用与新型攻击面",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491590&idx=1&sn=6bfe24a76d37d4ec6e48d96ef743b047": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月17日",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247520801&idx=1&sn=2013891b7fd924d8bbd7bd68b0992527": "《2025HW必修高危漏洞集合（3.0版）》",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486221&idx=1&sn=529cec00a3ba14d99ac6e06d6724c586": "工具集：VIte_ExpTools【vite任意文件读取一键利用工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=3&sn=08058cf5a01e256b72d5aef1908c5172": "漏洞预警 | 四信通信科技有限公司设备管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611105&idx=3&sn=44818c48fdb0f6d90c788f8898b09b6f": "记一次AMD漏洞挖掘：从文件权限配置错误到驱动权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=1&sn=cc65bcd8f82f0fd1b46fd746ecbba41e": "漏洞预警 | Windows SMB权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484672&idx=1&sn=5f9214cd934f0842aa5278e163286f38": "契约锁电子签章系统dbtest RCE"
 }
