@@ -15338,5 +15338,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523309&idx=2&sn=d3e035c89c35c26ad0a1cad90861ac97": "CISA 将TP-Link 路由器高危漏洞纳入KEV",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497741&idx=1&sn=c95ab3ad8c90379ea5e19a191a4afed0": "AI大模型漏洞挖掘",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=1&sn=ea5a04de3ac9f9e781c22bd8c4965af3": "Apache Tomcat 漏洞允许绕过身份验证和 DoS 攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=1&sn=ea5a04de3ac9f9e781c22bd8c4965af3": "Apache Tomcat 漏洞允许绕过身份验证和 DoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=2&sn=3fc5387da9750f0124a0ec66bb9729e0": "漏洞预警 | 用友NC任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497566&idx=1&sn=7ca3acd12c46d02b2e700204922bc7c2": "【漏洞通告】Apache Tomcat安全约束绕过漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519127&idx=1&sn=ecea8dcd3f921a456ccbddba527c8ba0": "记某众测Fastjson<=1.2.68反序列化RCE过程",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486874&idx=1&sn=1bd11f18b1b91e3584adad042b203501": "漏洞变现金：我的31500美元Facebook漏洞赏金之旅 0x2",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489430&idx=4&sn=f3902e0390467757e2b77e6939daebb2": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512840&idx=1&sn=25320ff14a997f0602c48762a5463d3b": "外网打点、专项漏洞、云上攻防、内网横向",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494039&idx=1&sn=d9948d421667300e7aeab6bf61748a1b": "攻击者利用Zyxel远程代码执行漏洞CVE-2023-28771发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485912&idx=1&sn=b776dcd81faed5bbc387e6e9a4b0332f": "【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491094&idx=1&sn=a014710ea7216eacadbc94c61f81151b": "漏洞管理玩法已变",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486337&idx=1&sn=69f06f964a96e30b88d63f2d5a4e5f2e": "【工具分享】OSS漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488122&idx=1&sn=7dd4a081bf219591dd2dbc6b337abe09": "硬编码密码“b”引发重大风险！Sitecore XP漏洞威胁全球企业安全",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283404&idx=1&sn=187c7df781065431e5dee9a956eb72ae": "2025年攻防演练必修高危漏洞合集",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521083&idx=1&sn=a91574dc7063fe2f72c42be0861abc94": "php代码审计篇 - 信呼OA 前台注入"
 }
