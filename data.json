@@ -15410,5 +15410,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489255&idx=1&sn=6aeab11cfe4dc3b1215c81d03177d2af": "美国CISA将苹果与TP-Link产品高危漏洞列入已知利用清单",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=3&sn=36633d2511379f57d133547778a390f8": "漏洞预警 | 月子会所ERP管理云平台任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489365&idx=2&sn=c4c745e3b68fe39fddc6bb157e321d50": "红队终极指南：“A-poc∕RedTeam-Tools”",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116640&idx=2&sn=dc4751da96a5482b4b5684916508100a": "医疗服务公司Episource数据泄露，影响540万人"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116640&idx=2&sn=dc4751da96a5482b4b5684916508100a": "医疗服务公司Episource数据泄露，影响540万人",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491859&idx=1&sn=8d77eaf8aac84238abc49fe49e499497": "三汇 SMG网关管理软件 9-2radius.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491912&idx=1&sn=74dd7b8a525955965457628ed711e635": "浅谈常见EDU漏洞，逻辑漏洞、越权、接管、getshell，小白如何快速找准漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499903&idx=1&sn=bd4cd23c26aac01c8dcc6ce1bab5ba63": "双漏洞链一击拿下 Root：CVE-2025-6018∕CVE-2025-6019 横扫主流 Linux",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486229&idx=1&sn=3a1d73583e193008a7a7c66f522d0567": "工具集：Wavely V3.0【Nuclei POC 漏洞验证可视化工具】--6.19更新",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492350&idx=1&sn=5586252e5859dfb692618f047c00faa2": "攻防下帮助学员快速审计NET前台rce漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=1&sn=bb7af1bdae0d924f2df258a74cea48e5": "漏洞预警 | Apache Tomcat安全约束绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589077&idx=1&sn=c58bf889bdcc6a1da36571bba3f6dc0b": "代码审计资金盘软盟微交易系统",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795477&idx=1&sn=c8cc84db69bc662ea39715896bbf0262": "Qualys 研究人员发现允许 root 权限攻击的严重 Linux 漏洞"
 }
