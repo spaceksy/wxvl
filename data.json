@@ -15454,5 +15454,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484808&idx=1&sn=5abe422c4016fe5301be0b7b67ce939e": "关于漏洞“宝塔Linux面板存在任意命令执行”的说明",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MDc1MjY5Ng==&mid=2247493030&idx=1&sn=52d68896765ce5a16a09e99d394507b2": "CVE-2025-33073：域内大杀器（附复现环境）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492539&idx=1&sn=250730046fc1116e0a28c8ea9e77bbb5": "Burp新利器解决请求包加密问题 CloudX自动化解密AES、SM4、DES等加密方式的接口|漏洞探测",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531136&idx=2&sn=71883f588c565f53ef733bcfcb8c5c13": "Linux 内核 OverlayFS 漏洞 (CVE-2023-0386) 被利用来提升 Root 权限"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531136&idx=2&sn=71883f588c565f53ef733bcfcb8c5c13": "Linux 内核 OverlayFS 漏洞 (CVE-2023-0386) 被利用来提升 Root 权限",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488862&idx=1&sn=672add026f3f250b4406a9a23d277c9e": "CVE-2025-6019: 从 allow_active 到 root 的本地提权漏洞 (LPE)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490273&idx=2&sn=905d7c05651aefdf13d886cdeddad3e9": "【高危漏洞预警】 libblockdev权限提升漏洞（CVE-2025-6019）"
 }
