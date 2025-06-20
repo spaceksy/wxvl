@@ -15456,5 +15456,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492539&idx=1&sn=250730046fc1116e0a28c8ea9e77bbb5": "Burp新利器解决请求包加密问题 CloudX自动化解密AES、SM4、DES等加密方式的接口|漏洞探测",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531136&idx=2&sn=71883f588c565f53ef733bcfcb8c5c13": "Linux 内核 OverlayFS 漏洞 (CVE-2023-0386) 被利用来提升 Root 权限",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488862&idx=1&sn=672add026f3f250b4406a9a23d277c9e": "CVE-2025-6019: 从 allow_active 到 root 的本地提权漏洞 (LPE)",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490273&idx=2&sn=905d7c05651aefdf13d886cdeddad3e9": "【高危漏洞预警】 libblockdev权限提升漏洞（CVE-2025-6019）"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490273&idx=2&sn=905d7c05651aefdf13d886cdeddad3e9": "【高危漏洞预警】 libblockdev权限提升漏洞（CVE-2025-6019）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491616&idx=1&sn=d9208bcf88762ece0d2666bed4216fed": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月19日",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484863&idx=1&sn=b145230e60dec073587ed6e332e57aa7": "【漏洞复现】泛微e-cology 未授权SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484866&idx=1&sn=65eb8293ccb79f02d72c47f620a51d97": "【攻防利器】Tomcat漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900786&idx=1&sn=069433e028f0bbb9d5457c0d6caab415": "Linux内核提权漏洞(CVE-2023-0386)在野利用：从技术原理到业务风险与防御策略",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486886&idx=1&sn=be075071b89d614263149e7ac7ab9ecb": "从SOAP到Shell：利用SOAP服务实现完全管理员账户接管（近乎RCE的漏洞）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488137&idx=1&sn=e07f4a50cf1f03d17bac8b2800bd37b4": "Windows惊现致命权限漏洞！普通员工1分钟变管理员，数亿设备暴露风险(CVE-2025-24286)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484679&idx=1&sn=ccaffdcd00b07f198b98052823993e9f": "用友nc saveProDefServlet SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116672&idx=2&sn=ad75e106efc11a2a208b30168436e7d7": "微软2025年6月份于周二补丁日针对67漏洞发布安全补丁"
 }
