@@ -15498,5 +15498,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596037&idx=4&sn=fb4c9bd8a84e95a40a020f981c5e7885": "《CTF训练营-Web篇》更新：反序列化漏洞（四）Laravel反序列化链分析",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503518&idx=1&sn=09e0cab29a0bf5cf22e300e719f2aab2": "【已复现】Linux 本地提权漏洞利用链(CVE-2025-6018、CVE-2025-6019)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485966&idx=1&sn=502623af4e680d22ab43973a413eee69": "【漏洞复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817)",
-    "https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247533745&idx=2&sn=a176b8fa0297f6d311e87c46b62a9f49": "荐读丨工信部：AI绘图工具ComfyUI多个安全漏洞已被用于实施网络攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247533745&idx=2&sn=a176b8fa0297f6d311e87c46b62a9f49": "荐读丨工信部：AI绘图工具ComfyUI多个安全漏洞已被用于实施网络攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116686&idx=2&sn=6528b7da213e0895a48a14ee1b8e27b4": "Veeam备份和复制中CVSS评级为9.9的严重RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485970&idx=1&sn=1c7e97d2e1a8c9348506e82951046672": "【漏洞复现】泛微e-cology 未授权SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521110&idx=1&sn=0b4031953de11bc1668753da586d4e3a": "PHP 静态分析漏洞挖掘：挑战、对策与研究进展综述"
 }
