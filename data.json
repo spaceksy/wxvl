@@ -15588,5 +15588,13 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323631&idx=1&sn=cb216be48b37bb3942f40f1b6f0af4b8": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247497866&idx=3&sn=d363efd42c49377e2637a4d4a0ddee08": "涉数据安全漏洞与隐私风险 中国医疗设备厂商在美国遭遇诉讼",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=2&sn=7928bf75a665a3f3f2320e3eae44f879": "漏洞预警 | JimuReport信息泄露漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499946&idx=1&sn=f6d83334f2b3d76da4e6c8d0a39c7284": ".NET WPF 下的新思路，通过 XAML 实现代码执行"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499946&idx=1&sn=f6d83334f2b3d76da4e6c8d0a39c7284": ".NET WPF 下的新思路，通过 XAML 实现代码执行",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521829&idx=1&sn=1169e429efce4626a07be6bb0bae7b52": "一次从0到1的逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611158&idx=3&sn=ded70f18ec0a6f9ca8caba82488f97e3": "SRC | 一次从0到1的逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515203&idx=1&sn=aa65a6a18fdb558e811f8b9c1010a23c": "台海热点诱饵！旺刺组织结合 0day 和 ClickOnce 技术开展间谍活动",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486298&idx=1&sn=44fa8b1202c28d403d448d9a89a29654": "工具集：泛微E-cology9 SQL 注入漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=2&sn=53f5863b82d57df201da83c7c6919937": "WinRAR 存在目录遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=1&sn=ada8dcbff73f3fb9ecd263cc0d15448f": "Notepad++ 存严重提权漏洞,PoC 已流出",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497672&idx=1&sn=aa31b65773592f3618573abad3603b67": "F5 BIG-IP RCE：重温解析差异导致的身份认证绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524896&idx=1&sn=6362d0f2560274fc642f792dcffaf2f6": "黑客据称在黑客论坛上出售Intelbras路由器的0-day漏洞利用"
 }
