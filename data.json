@@ -15640,5 +15640,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxOTUyNTg2MA==&mid=2247483982&idx=1&sn=a506515361c892f7d439c4fe16467aa6": "【淮橘AI代码审计工具v2.0】规则+AI双引擎，让漏洞无处遁形",
     "https://mp.weixin.qq.com/s?__biz=MzIyNzc3OTMzNw==&mid=2247485939&idx=1&sn=03c3ffef5a2ae3b4cd0db6c79534f4a3": "工具分享 | 一款JumpServer堡垒机未授权综合漏洞利用脚本（近期更新）",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535332&idx=5&sn=7700ce5764c969ea25c1b48668b198fb": "多部门联手！未成年人安全漏洞整治风暴征民意",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484510&idx=1&sn=ff6752e79d304c2f0c105cd9d11bacc2": "Langflow远程代码执行漏洞（CVE-2025-3248）POC及一键部署环境"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484510&idx=1&sn=ff6752e79d304c2f0c105cd9d11bacc2": "Langflow远程代码执行漏洞（CVE-2025-3248）POC及一键部署环境",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070352&idx=3&sn=cc4501ba6fd8153a01376bad11487244": "【安全圈】TeamViewer 高危漏洞通报（CVE-2025-36537）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323714&idx=3&sn=e66361c25b0dba9cb07f228b450a60c9": "WinRAR目录遍历漏洞允许通过恶意文件执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490307&idx=1&sn=bac7469bf34eee680054d677b1c056ec": "【高危漏洞预警】 Gogs内部文件删除致远程命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492665&idx=1&sn=9fbe571d7111030b9c4ceba172cdaa2a": "漏洞复现 || GeoServer XXE漏洞 (CVE-2025-30220)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523373&idx=1&sn=046fdf8814e8311d4a31bd092804a2c2": "思杰修复 NetScaler ADC 和 Gateway 中的严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641086&idx=2&sn=7947f21af9546a6522db29daeb6323b0": "直播预告 | 攻防演练季应急自救指南-0Day∕NDay来袭，传统防护失效下该如何破局?",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247489256&idx=1&sn=503b05e22ac55c8acc087c2ad80efcba": "利用 WebView 漏洞：绕过 SOP 访问内部应用程序文件",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247533747&idx=2&sn=22b55155a4f85bf20cdba850b24115eb": "荐读丨首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492046&idx=1&sn=01a742e4329db61125a8bb709a3c781b": "安利一款桌面应用流量拦截神器：InterceptSuite 让加密通信无处遁形",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531318&idx=1&sn=5495b33965ce946dd8209ec865cc0978": "剖析 CVE-2024-12695：利用 V8 中的 Object.assign()"
 }
