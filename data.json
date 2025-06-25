@@ -15664,5 +15664,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521326&idx=1&sn=eee5b7db26999c41ad137213d0d90a1c": "记录某企业存储型XSS漏洞从发现到数据外泄全路径分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483910&idx=1&sn=213863db5a9b86c813db99bade0660e1": "Java代码审计第七章-任意文件上传漏洞（上）",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555247&idx=1&sn=a7196eceb681af8cdcbd0cb4df87f1b9": "nps之Socks流量分析以及未授权复现",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573676&idx=1&sn=e886de4de4e7bab19b5e175e478473af": "6款较流行的开源漏洞扫描工具推荐及特点分析"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573676&idx=1&sn=e886de4de4e7bab19b5e175e478473af": "6款较流行的开源漏洞扫描工具推荐及特点分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492852&idx=1&sn=63aa481b46b0e2ccc42748ad0107467f": "【已复现】Gogs 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494089&idx=1&sn=b9ada1dbf29cb740174d1194b7b4262d": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)"
 }
