@@ -15688,5 +15688,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611183&idx=3&sn=437b79ab9953823be4bd43f24b29107d": "一次从0到1的逻辑漏洞挖掘之旅",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247487980&idx=1&sn=458c8c0a91f96b54bfd02c02a7623273": "Java 安全 | JBossInterceptors1 & JavassistWeld1 链",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583318&idx=2&sn=0ba427effcd76b16d408c7d3116a319a": "Sitecore内容管理系统漏洞链始于在设置硬编码密码时的疏漏",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500142&idx=2&sn=cf476f2a200acb32881e43ae5476faef": "Realtek RTL8762E SDK v1.4.0 中的配对随机数过早注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500142&idx=2&sn=cf476f2a200acb32881e43ae5476faef": "Realtek RTL8762E SDK v1.4.0 中的配对随机数过早注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096350&idx=2&sn=ad5be77318cdcb22396bebc1fefd8a71": "NVIDIA Megatron LM 让攻击者注入恶意代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877196&idx=1&sn=19c499e2cf0110b58c8949023e55495a": "Google惊爆漏洞！任意账户关联手机号均可被暴力破解 飞天诚信：硬件安全密钥不用关联手机号",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDcxNTkyMA==&mid=2247484601&idx=1&sn=647bbc72478c156bb98058d68cf4101d": "破解和sql漏洞利用，双管齐下的1433",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484471&idx=1&sn=cf743831abccc0a1a5cb46208a1f6ee5": "Springboot图形化漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503527&idx=1&sn=3aa5f32ac9d5200982fe5a13434d7eb8": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)安全风险通告"
 }
