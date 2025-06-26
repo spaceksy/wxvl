@@ -15693,5 +15693,6 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877196&idx=1&sn=19c499e2cf0110b58c8949023e55495a": "Google惊爆漏洞！任意账户关联手机号均可被暴力破解 飞天诚信：硬件安全密钥不用关联手机号",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDcxNTkyMA==&mid=2247484601&idx=1&sn=647bbc72478c156bb98058d68cf4101d": "破解和sql漏洞利用，双管齐下的1433",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484471&idx=1&sn=cf743831abccc0a1a5cb46208a1f6ee5": "Springboot图形化漏洞利用工具",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503527&idx=1&sn=3aa5f32ac9d5200982fe5a13434d7eb8": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503527&idx=1&sn=3aa5f32ac9d5200982fe5a13434d7eb8": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483880&idx=1&sn=33c146d72d472dd3162c8ead79ed0453": "【情报】Notepad++存在高危提权漏洞CVE-2025-49144"
 }
