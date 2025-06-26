@@ -15666,5 +15666,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555247&idx=1&sn=a7196eceb681af8cdcbd0cb4df87f1b9": "nps之Socks流量分析以及未授权复现",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573676&idx=1&sn=e886de4de4e7bab19b5e175e478473af": "6款较流行的开源漏洞扫描工具推荐及特点分析",
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492852&idx=1&sn=63aa481b46b0e2ccc42748ad0107467f": "【已复现】Gogs 远程命令执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494089&idx=1&sn=b9ada1dbf29cb740174d1194b7b4262d": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494089&idx=1&sn=b9ada1dbf29cb740174d1194b7b4262d": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=3&sn=e9ebcf261289a95fb9471fcac2883806": "漏洞预警 | 泛微E-Cology SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499955&idx=1&sn=46257e085680fe9947bc90925d324f23": ".NET 介绍一种漏洞挖掘思路，绕过 GZip 实现反序列化",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486915&idx=1&sn=a2fcd625edc0bfec635fa313d4ad1bff": "200小时狂赚$20,300：我的漏洞赏金黑客挑战实录",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=2&sn=f6b4bc85401b58e71cdb7aa704901f29": "漏洞预警 | 云课网校系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908401&idx=1&sn=e5f24f835066c260946809fee62a5325": "[AI-VA-20250626-001] - Gogs符号链接处理不当导致远程命令执行",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzkxOTQ0OA==&mid=2247484573&idx=1&sn=aceeff40c7236693b32fabb68ee8ab3b": "XDigo 恶意软件利用 Windows LNK 漏洞对东欧政府发动攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494604&idx=1&sn=91c609102a5ad4b0afcfe5a10abdfdac": "一款轻量级Java源代码审计工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486028&idx=3&sn=d961f6c041977816b00f5c5e7415af1a": "【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247511358&idx=1&sn=668ea03605884eaaecd7c4d02890cc31": "Brother、富士等多型打印机曝严重漏洞，核心问题无法通过固件修复",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795544&idx=2&sn=c4b3f53fda7cbd38f267401a4b6af0eb": "新漏洞使数百万台 Brother 打印机面临黑客攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795544&idx=3&sn=bc7325dfc92703b843ccfc4f662399b4": "CISA 警告：老旧TP-Link 路由器存在严重漏洞可导致黑客攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491645&idx=1&sn=6961f6e6b2bf79b4616ac3459e85f91c": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月25日",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=1&sn=1ccc756f815c32f18e26fef511666ec0": "漏洞预警 | Linux本地提权漏洞"
 }
