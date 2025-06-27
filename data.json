@@ -15696,5 +15696,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503527&idx=1&sn=3aa5f32ac9d5200982fe5a13434d7eb8": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483880&idx=1&sn=33c146d72d472dd3162c8ead79ed0453": "【情报】Notepad++存在高危提权漏洞CVE-2025-49144",
     "https://mp.weixin.qq.com/s?__biz=MzIyMjQwMTQ3Ng==&mid=2247491568&idx=1&sn=56bef06681cde2ce8161fa8cfaeab4db": "【国际视野】美国网络安全和基础设施安全局与国家安全局联合发布《内存安全语言：减少现代软件开发中的漏洞》指南",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488924&idx=1&sn=fd5c369c50dfb523c63dab43e94fba98": "你检查过回收站了吗？挖掘 Active Directory 回收站中的权限提升漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488924&idx=1&sn=fd5c369c50dfb523c63dab43e94fba98": "你检查过回收站了吗？挖掘 Active Directory 回收站中的权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531375&idx=1&sn=15a705cf292ef9d6f2122c57749947de": "UAT-6382 利用 Cityworks 零日漏洞传播恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323846&idx=1&sn=ce9854e060a565ed66030f32df82d949": "实战漏洞报告合集首发，赏金已超万元",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484434&idx=1&sn=fdcc1421f4fe465e4fa8104b5e7ccb6f": "【漏洞预警】Gogs远程命令执行漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492492&idx=1&sn=d6b757afa59be6084717104a39f36dc4": "快去升级！WinRAR 高危安全漏洞现已修复"
 }
