@@ -15710,5 +15710,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485638&idx=1&sn=2e701999599c57e242d403014afbaa96": "[CVE-2025-49144] 超详细复现notepad++提权漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531390&idx=1&sn=ea0a1db7611361fced3917c01d483312": "CVE-2025-47934 – 欺骗 OpenPGP.js 签名验证",
     "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788736&idx=1&sn=d928c3059c6a5c78864232be6184cb05": "Open VSX 漏洞重创扩展生态，数百万开发者面临供应链劫持",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539380&idx=2&sn=cc517d78d572225146d9e0d81e0c8113": "国产化替代浪潮下，国产产品安全漏洞管理实践"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539380&idx=2&sn=cc517d78d572225146d9e0d81e0c8113": "国产化替代浪潮下，国产产品安全漏洞管理实践",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523387&idx=1&sn=d337384a0eacef330ea1c9beaedf7937": "思杰紧急修复已遭利用的NetScaler ADC严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519159&idx=1&sn=0ca8c03e95dd58aca687e2d21148721d": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137338&idx=2&sn=2b54725eb21fda1feeedac82b273d938": "ChainIQ遭网络攻击，影响UBS和KPMG等知名企业；IBM WebSphere高危RCE漏洞允许攻击者完全控制系统 |牛览"
 }
