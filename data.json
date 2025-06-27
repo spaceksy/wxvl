@@ -15700,5 +15700,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531375&idx=1&sn=15a705cf292ef9d6f2122c57749947de": "UAT-6382 利用 Cityworks 零日漏洞传播恶意软件",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323846&idx=1&sn=ce9854e060a565ed66030f32df82d949": "实战漏洞报告合集首发，赏金已超万元",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484434&idx=1&sn=fdcc1421f4fe465e4fa8104b5e7ccb6f": "【漏洞预警】Gogs远程命令执行漏洞风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492492&idx=1&sn=d6b757afa59be6084717104a39f36dc4": "快去升级！WinRAR 高危安全漏洞现已修复"
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492492&idx=1&sn=d6b757afa59be6084717104a39f36dc4": "快去升级！WinRAR 高危安全漏洞现已修复",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484900&idx=1&sn=987e33d854d2403c3a6e423aa4282b73": "【复现】Gogs 远程命令注入漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODY2ODA0OA==&mid=2247486029&idx=1&sn=4009deb55305d2f6d838bb9e8c22035c": "【技术分享】逻辑漏洞逻辑漏洞还是逻辑漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491662&idx=1&sn=6d3f906e7750c57fe3af2c59e520c286": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月26日",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581004&idx=1&sn=2f71cde362d2e5dec4e3585e1ac450be": "当分公司突遭漏洞通报……如何揪出安全管理“暗礁”？",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490313&idx=1&sn=c59808dd4135c7a6d4d434f5cca727d5": "【高危漏洞预警】Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25012)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485843&idx=1&sn=ca62e1d7b5c26a512d859425e8012da6": "Bypass 403漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485638&idx=1&sn=2e701999599c57e242d403014afbaa96": "[CVE-2025-49144] 超详细复现notepad++提权漏洞"
 }
