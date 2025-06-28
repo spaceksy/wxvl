@@ -15721,5 +15721,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486065&idx=1&sn=2b17d4f5f226e587c16f63c58cafc874": "【安全风险通告】Roundcube Webmail后台代码执行漏洞 (CVE-2025-49113)",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070394&idx=4&sn=aeed87696ea8fe6444b8b1cb9444bf8e": "【安全圈】Open VSX Registry 爆出严重漏洞，数百万开发者面临供应链攻击风险",
     "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247494922&idx=1&sn=dae4e1652fe33e93bb6fd09926535156": "抖音生活服务专测上线！单个漏洞奖金15万元！",
-    "https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486555&idx=1&sn=28d1773e6d7afa6a083204bcfa8f7416": "Brother、富士等多型打印机曝严重漏洞，核心问题无法通过固件修复"
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486555&idx=1&sn=28d1773e6d7afa6a083204bcfa8f7416": "Brother、富士等多型打印机曝严重漏洞，核心问题无法通过固件修复",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484481&idx=1&sn=12f6a7fef44109a965c102f35130580b": "【已复现】用Notepad++提权漏洞社工钓鱼控制系统最高权限",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490428&idx=1&sn=4b291e73cec6a04e68da263a63257cd4": "【AI风险通告】LLaMA-Factory存在远程代码执行漏洞（CVE-2025-53002）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=1&sn=4673c140780854d180246684f5bfb049": "WinRAR目录遍历漏洞允许通过恶意文件执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531421&idx=2&sn=1d5a42294204b71b9c78d6eeb6e30e77": "区块幽灵：以太坊共识漏洞"
 }
