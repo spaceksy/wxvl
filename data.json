@@ -15766,5 +15766,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523404&idx=2&sn=3ff2f901d13c30f8048d7a38b567880f": "蓝牙芯片集多个漏洞可导致攻击者窃听或盗取敏感信息",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492722&idx=1&sn=2eb58866b8e1479105ea7019b94ea417": "多家互联网企业因三大漏洞遭处罚，650万条患者信息裸奔",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490329&idx=1&sn=7a5a2c55b2fbbb3fa44d710232beeb33": "【高危漏洞预警】Apache Seata反序列化漏洞(CVE-2025-32897)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507825&idx=1&sn=c8163fc109580e2fd0b793a34118ae75": "微步情报局再次发现DataEase存在多个高危漏洞，可实现RCE"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507825&idx=1&sn=c8163fc109580e2fd0b793a34118ae75": "微步情报局再次发现DataEase存在多个高危漏洞，可实现RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546847&idx=2&sn=9b0673dd296bbe07d675025dfa319c78": "蓝牙零日漏洞：数百万耳机变身隐秘窃听站"
 }
