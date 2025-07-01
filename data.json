@@ -15770,5 +15770,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546847&idx=2&sn=9b0673dd296bbe07d675025dfa319c78": "蓝牙零日漏洞：数百万耳机变身隐秘窃听站",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486063&idx=1&sn=cb7aa62c4cda3c38d7fe2d23d4d77b49": "【漏洞复现】CVE-2025-33073｜Windows SMB 权限提升漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494660&idx=1&sn=aa557759e534cc95f47181c56432377b": "PassGuard是一个轻量级安全工具，专为防护Linux系统中的脏牛(Dirty COW)内核漏洞而设计。",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247497798&idx=1&sn=2c78f0ec8d3d1f242ce515062c3695df": "SRC漏洞挖掘之“嫂子开门，我是我哥”"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247497798&idx=1&sn=2c78f0ec8d3d1f242ce515062c3695df": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486072&idx=1&sn=1d149c024fede423c27c5d8d8fa8371a": "【漏洞复现】Apache Axis2弱口令（附测试靶机）",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=3&sn=ffe4d01494f91fdfb954e714686d7dc2": "实战级权限维持，从配置到命令执行一键部署 ViewState WebShell",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=2&sn=06d53998d9241762baedba11484d462b": "上周关注度较高的产品安全漏洞(20250623-20250629)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794356&idx=1&sn=1807d8a8e309d53363046e89b71a51fe": "悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复"
 }
