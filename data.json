@@ -15779,5 +15779,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499979&idx=2&sn=63e2f94717b029c6da54278012839e8a": "国内最专业、最全面的 [ .NET 代码审计 ] 体系化视频学习课程",
     "https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247517267&idx=1&sn=15af7e76cfcf20622dd19551e3a1bf78": "6款较流行的开源漏洞扫描工具推荐及特点分析",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555326&idx=2&sn=cebb6d2e0961666408a1b3ae0bc5cac4": "【免费领】新手必备！Web安全漏洞挖掘实战入门教程",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596324&idx=2&sn=9aceb4a1f80e7cd75b8c79e45465f11a": "Linux Sudo 曝重大漏洞可提权至root并绕过主机限制，速更新！"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596324&idx=2&sn=9aceb4a1f80e7cd75b8c79e45465f11a": "Linux Sudo 曝重大漏洞可提权至root并绕过主机限制，速更新！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070451&idx=4&sn=1ae1f2640c97ff21fa27bdfc9eefb3dd": "【安全圈】危险警告！D-Link 多款路由器曝出严重漏洞，建议立即停用",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096366&idx=2&sn=0bc84ccadfed7c9c2ab6818255f637c7": "IBM WebSphere Application Server 允许远程执行代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501245&idx=2&sn=b69280406515cfaba0f0b36bce7ecbcd": "【漏洞通告】Citrix NetScaler ADC和Gateway拒绝服务漏洞 (CVE-2025-6543)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496737&idx=1&sn=370c593f1bce328f065b2ee3561a83bb": "【论文速读】| FuncVul——基于LLM与代码块的高效函数级漏洞检测模型",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096366&idx=1&sn=1f824c99f63b3324ed70f4623df29c43": "Chrome 0 Day 在野外被利用以执行任意代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=1&sn=7bf65d26e4d8ee07d1bb79a849c00f27": "【已复现】Linux sudo 本地提权漏洞(CVE-2025-32462、CVE-2025-32463)"
 }
