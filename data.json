@@ -15813,5 +15813,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490527&idx=1&sn=38615bfc7507a4ef985d194745d2df4c": "广联达远程代码执行代码审计",
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514631&idx=1&sn=fd5a357122fb4f7943b832c639bc9e1a": "MCP工具链首个严重漏洞？一个钓鱼网页，远程劫持开发者电脑",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490802&idx=1&sn=102c4f427b3434196bc45fac750ee05e": "插件前台任意文件读取漏洞复现与分析 (CVE-2025-2294)",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503550&idx=1&sn=403675d7942468c56b29a05e37f625fc": "【已复现】Google Chrome V8 类型混淆漏洞(CVE-2025-6554)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503550&idx=1&sn=403675d7942468c56b29a05e37f625fc": "【已复现】Google Chrome V8 类型混淆漏洞(CVE-2025-6554)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484934&idx=1&sn=d44f4e774becd54bfe1a4ab0577e5e3f": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第26期，总第44期]",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501261&idx=2&sn=b4d3e1f7d10b28534202f323f0507ccc": "【漏洞通告】IBM WebSphere 远程代码执行漏洞(CVE-2025-36038)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484397&idx=1&sn=02ae9d7fb38d1998b6e39568727b16de": "【0DAY漏洞复现】某款网络设备存在命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502397&idx=1&sn=ba68750f81dfaf2beb069dfb38aef163": "Nessus严重漏洞允许覆盖任意本地系统文件"
 }
