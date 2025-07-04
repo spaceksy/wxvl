@@ -15820,5 +15820,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502397&idx=1&sn=ba68750f81dfaf2beb069dfb38aef163": "Nessus严重漏洞允许覆盖任意本地系统文件",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490353&idx=1&sn=c5470fd58355538b2dbea6a82e14b61a": "【高危漏洞预警】sudo < 1.9.17p1 host&chroot本地提权漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492212&idx=1&sn=d5b473f62fc06b60c4bf8a71d3bd2de1": "JAVA常见漏洞复现",
-    "https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650850595&idx=1&sn=372e11108972c7b8fce6574e03d9b7fd": "青藤RASP入选CCIA首批 “网安三新”，攻防演练中抓0day神器再获官方认证"
+    "https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650850595&idx=1&sn=372e11108972c7b8fce6574e03d9b7fd": "青藤RASP入选CCIA首批 “网安三新”，攻防演练中抓0day神器再获官方认证",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248176&idx=1&sn=0ecdc3615a9a83848b91db8b1861589a": "德国全面封杀DeepSeek，中欧数据冲突升级 | Nessus严重漏洞允许覆盖任意本地系统文件",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712380&idx=1&sn=7700a12a66238c5693b4b3853877b1fa": "绿盟网络入侵防护系统users.json敏感信息泄露漏洞"
 }
