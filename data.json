@@ -15834,5 +15834,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545079&idx=2&sn=65abb29b5e5223f43305537aabeaa842": "2025攻防演练必修高危漏洞集合",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492002&idx=1&sn=b6880866102aa41c8fbb56a6d73544e8": "Optilink upgrade.php 命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727846792&idx=1&sn=622536f639aa4976d47ddfc18e65de3e": "LazyValue下的Parcel漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzcxMDQwMg==&mid=2247487105&idx=1&sn=fc2288177dd8544ef2ccab2411d6bd15": "从路径遍历到远程命令执行（RCE）",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650203655&idx=1&sn=5768b7902ccde0e5737383fce3204d20": "Google Chrome V8类型混淆漏洞来袭，网御星云提供优选解决方案",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDc0MTc5Mw==&mid=2247483878&idx=1&sn=161132aec1e0f816d558679852c2866c": "Notepad++提权漏洞POC及一键部署环境【CVE-2025-49144】",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550744&idx=1&sn=2af56c38b8479339ec6a8b2406b7c962": "某前后端分离BI低代码通用漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488231&idx=1&sn=c07da2830aebc1cfa6f73c23b3ced056": "护网行动进行时！攻击队武器库新增10大高危漏洞，蓝队紧急加固！",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500923&idx=1&sn=7eb27e3f909442571fa32be3a1dab150": "【2025护网漏洞POC速存】吃苕皮喝挪瓦，HW轻松拿捏"
 }
