@@ -15874,5 +15874,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486235&idx=1&sn=d6ca3209142d51b045d6529d1f556d48": "某供应商运维安全管理系统存在命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494698&idx=1&sn=47fe75c62630836696f6a32f42bef890": "一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。",
     "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486451&idx=1&sn=85289abd84dae9df3d188dd36d5d7e55": "RCE 漏洞(下)：绕过防御，直达核心的艺术与科学",
-    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490446&idx=1&sn=726652b172d33357d42447129dcee18a": "【7∕7特辑】今日捕获大量漏洞！"
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490446&idx=1&sn=726652b172d33357d42447129dcee18a": "【7∕7特辑】今日捕获大量漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=3&sn=2bb8fcf23ab31e057c5ee62d76ef30f2": "Erlang∕OTP SSH 中的未经身份验证的远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546998&idx=1&sn=c3077c2a50dfec80de8f9e21b507ae53": "25HVV最新0day更新，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=1&sn=cf6ac5c638e79ee6ab729793fb9d3380": "CentOS Web 面板中的远程代码执行 - CVE-2025-48703",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485596&idx=1&sn=7bc13ba63d58c7e30f858f1d985f6a56": "必看---当前国护0day漏洞权威汇总"
 }
