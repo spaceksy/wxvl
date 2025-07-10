@@ -15937,5 +15937,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493676&idx=3&sn=6262141acaaa57e44ec39aa1bebdbaf0": "漏洞预警 | 明源地产ERP身份认证绕过漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490818&idx=1&sn=b8b5e7f8dc6be896a96fc042718d0e5f": "【SRC】某平台毕业季开房优惠卷逻辑漏洞（红姐邀请你进房间）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491720&idx=1&sn=18f6d4ace8786e4d6c4f0ed0caf3d0b8": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月09日",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485722&idx=1&sn=93ce0517f2615466f5085ccd082cc479": "CVE-2025-48799: Windows 权限提升获取System权限【附POC】"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485722&idx=1&sn=93ce0517f2615466f5085ccd082cc479": "CVE-2025-48799: Windows 权限提升获取System权限【附POC】",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=1&sn=6d82b7ddc4c8cc451bc8ab54f4420e78": "【安全圈】Zoom Windows 客户端曝出中危漏洞，可能被用于发起拒绝服务（DoS）攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486099&idx=1&sn=cd70d35575862813b29e724bd02777a8": "【0day】Telegram私密群组∕频道未授权访问",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=1&sn=fa39dab26fa7889aa2d78f6bfc2cc882": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507834&idx=1&sn=cb2a5fffe56db189abdb84f8cf483df4": "酌情处置 | Redis hyperloglog 命令远程代码执行漏洞利用条件较多",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500813&idx=1&sn=6c8d8bd1fa20374d7dc2b54b56bc22ab": "西门子、施耐德、菲尼克斯电气修复漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484507&idx=1&sn=bdd96d70bb0af4746b561264f05e1d2c": "【已复现】泛微 E-cology9 SQL注入漏洞"
 }
