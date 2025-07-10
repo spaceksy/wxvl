@@ -15944,5 +15944,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=1&sn=fa39dab26fa7889aa2d78f6bfc2cc882": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507834&idx=1&sn=cb2a5fffe56db189abdb84f8cf483df4": "酌情处置 | Redis hyperloglog 命令远程代码执行漏洞利用条件较多",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500813&idx=1&sn=6c8d8bd1fa20374d7dc2b54b56bc22ab": "西门子、施耐德、菲尼克斯电气修复漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484507&idx=1&sn=bdd96d70bb0af4746b561264f05e1d2c": "【已复现】泛微 E-cology9 SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484507&idx=1&sn=bdd96d70bb0af4746b561264f05e1d2c": "【已复现】泛微 E-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611380&idx=3&sn=fbba26992af78ca4efce43478a5d8c65": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517276&idx=1&sn=9b8a010e8e6aa70f7ddb9d4bf58ba335": "漏洞通告｜Git 远程代码执行漏洞（CVE-2025-48384)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486516&idx=1&sn=8ce41df1c1c32eddb5762dc6c362a85b": "新一代SQL注入检测技术，小白也能轻松挖到漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247525965&idx=1&sn=4cce799f1eac9ea200619ceea69704db": "2025-07微软漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492090&idx=1&sn=d3730d112f227a6e2220302b76ba7ea4": "金盘移动图书馆图书管理系统 tabShow 信息泄露漏洞"
 }
