@@ -15956,5 +15956,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=1&sn=df2ccc1c3c4a214c1b1a95b51694da62": "微软7月补丁星期二值得关注的漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486434&idx=1&sn=7915ee874f143a14d82291212af62ca0": "Web与全版本服务漏洞检测工具 - z0scan",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490463&idx=1&sn=1b48b2ce233b26f5a8ec414b28fce49b": "【已复现】泛微E-cology9存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486256&idx=1&sn=e695f0ac5253981b19b466c133364824": "【0day挖掘】怎么用“Rotor Goddess”轻松爆出过万资产的漏洞，以及其他小洞的出货方式与流程"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486256&idx=1&sn=e695f0ac5253981b19b466c133364824": "【0day挖掘】怎么用“Rotor Goddess”轻松爆出过万资产的漏洞，以及其他小洞的出货方式与流程",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492872&idx=1&sn=90db05effb93a6cd8efb63c5fa4dfa0d": "【已复现】泛微e-cology 前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547132&idx=1&sn=cd484270f0cd9ed5dc17fdeafb2e76dd": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488444&idx=1&sn=5b0a8866a42e54f258089ecfd7d729f3": "项目推荐 | WebGoat8.X代码审计大全，全文均可复现，适合刚学完JAVASE准备开始代码审计的师傅",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597040&idx=2&sn=cdca0a3babe6585f09000478395ba7bf": "Windows 系统曝 wormable 级 RCE 漏洞，CVSS 评分 9.8",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487556&idx=1&sn=d4ee665f5777a19061830dbb847479f5": "Git 远程代码执行漏洞预警(CVE-2025-48384)",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503591&idx=1&sn=d2d745e2f4f838c527281205db85b1b4": "【已复现】泛微E-cology9 前台SQL注入漏洞(QVD-2025-26680)安全风险通告"
 }
