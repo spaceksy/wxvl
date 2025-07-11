@@ -15973,5 +15973,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493681&idx=1&sn=9523c6d0eda530b7c5ebdd3ac944351d": "漏洞预警 | 畅捷通T+ SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908542&idx=1&sn=83623032b333f88591df7b0a6e59b3b9": "十年博弈 - ViewState RCE的前世今生",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545194&idx=1&sn=f6a13541555121a7cef45a689b02e08d": "清华大学招聘漏洞挖掘工程师（清华大学正式合同）",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484056&idx=1&sn=a9e16c53606bd1cea08b46898a9fd5e2": "逻辑漏洞之皇帝的新衣"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484056&idx=1&sn=a9e16c53606bd1cea08b46898a9fd5e2": "逻辑漏洞之皇帝的新衣",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486431&idx=2&sn=ff19bea58b0a4b773251fc334ed4551a": "【漏洞复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023)"
 }
