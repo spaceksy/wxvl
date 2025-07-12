@@ -15998,5 +15998,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168678&idx=1&sn=ca4103b2ea097dfda3fc23c85d5c9f5e": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486522&idx=1&sn=a01569e808d3475b13fe5f2b04268a76": "Struts2VulsScanTools【Struts2全版本漏洞检测工具】",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547158&idx=1&sn=3cf79ed603597648e4ebc012f1dd387d": "【暴】麦当劳招聘平台 | 安全漏洞致 6400 万份求职申请信息暴露",
-    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492877&idx=1&sn=f6c804a45992dbfc7e82c40884909de9": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492877&idx=1&sn=f6c804a45992dbfc7e82c40884909de9": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486552&idx=1&sn=41c4e4a40fd104f53e22f5a7143c88ad": "记一次企业src漏洞挖掘连爆七个漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493023&idx=1&sn=33bd188ed20d88bbe2bf0b5dc2b834dd": "某211高校从一个文档到十八万条sfz泄露和命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597083&idx=3&sn=5ed9d81521495a3efbc2a3afe6aedaf8": "PerfektBlue漏洞危及梅赛德斯、大众和斯柯达等多款汽车信息娱乐系统"
 }
