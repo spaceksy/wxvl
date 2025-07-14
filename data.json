@@ -16039,5 +16039,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583802&idx=1&sn=c914497a8cef5d31d229e7ce9ad87e00": "蓝牙漏洞可能会让黑客通过麦克风窃取信息",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491762&idx=1&sn=29ab889867f7d639faaa54a3dfc2ef2e": "清源SCA社区版｜每一次漏洞判定皆有代码为证",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503607&idx=1&sn=44581e3d24968215d02fb7b63ed254d6": "安全热点周报：Fortinet 公开 FortiWeb 中的严重预身份验证 RCE 漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501314&idx=2&sn=5e35621925a6305ddbf83e56547a4491": "【漏洞通告】Fortinet FortiWeb Fabric Connector SQL注入漏洞(CVE-2025-25257)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501314&idx=2&sn=5e35621925a6305ddbf83e56547a4491": "【漏洞通告】Fortinet FortiWeb Fabric Connector SQL注入漏洞(CVE-2025-25257)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496126&idx=1&sn=4bbd11a17c961421e365773e0d458184": "CNVD漏洞周报2025年第26期",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247556779&idx=1&sn=e40f6561075f5bc2dd2ef0f94ccf1a3b": "3.5亿辆汽车、10亿设备暴露于一键蓝牙RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573973&idx=1&sn=ecf5cfbabe7a1b50a40ab8d6aa8a0324": "整理一些挖SRC必须知道的漏洞提交平台",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4ODg2MjQ5Mg==&mid=2247484142&idx=1&sn=b7b1520274e05a7c03c144e80761199c": "Fortinet FortiWeb SQL注入 CVE-2025-25257",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324846&idx=4&sn=f1d0bf41e03a0e999487db8bcdacbf1a": "600余个Laravel应用因GitHub泄露APP_KEY面临远程代码执行风险"
 }
