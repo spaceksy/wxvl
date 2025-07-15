@@ -16048,5 +16048,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=2&sn=b06c26e63d5694cb6383efb350fb9f34": "【漏洞复现】CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324846&idx=3&sn=7a22c6935abca7bdf46bf166aa5bb5d8": "技嘉UEFI固件SMM漏洞使系统面临固件植入和持久控制风险",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521818&idx=1&sn=f77fe49d0b95ceef9dc5cd5953e116c2": "600余个Laravel应用因GitHub泄露APP_KEY面临远程代码执行风险",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490678&idx=1&sn=2bc385ae9c50e43f2cb6a1d804168153": "【工具】afrog 高性能Web漏洞扫描器",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795710&idx=3&sn=52208912e929c701e1fe746d0a6cbada": "WinRAR 0day漏洞在暗网以 8 万美元的价格出售",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247503713&idx=1&sn=30a9dfab1ba05235856bd934448eb6d4": "英伟达GPU爆出硬件漏洞，可导致AI大模型“脑瘫”",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506973&idx=1&sn=d258cb8eb078305c2c2e3a6e9ac1b51a": "RXSS! on Mercedes-Benz",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248217&idx=1&sn=bf2ae52fcc281de6779f18bb044e6710": "50个大模型的网络攻击能力深度测评 | 投资回报率最高的AI应用：漏洞猎人",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484960&idx=1&sn=758111b66d24a67e66a0aeeab9bb191c": "安全漏洞防治工作标准化的必要性：抵御不断演变的威胁之盾",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497998&idx=2&sn=a3695a50b149bb30767ea7822c21c3b0": "漏洞扫描工具：渗透测试的左膀右臂，还是华而不实的鸡肋？"
 }
