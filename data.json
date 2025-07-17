@@ -16091,5 +16091,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486558&idx=1&sn=e150a399f701a2a8c0b490ea631bfa05": "代码审计-Java项目-反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487268&idx=1&sn=32c18f49eefc14d6b05cb8af3b337109": "【辟谣】微信最新XSS漏洞？1click？真相原来是这样的！",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493489&idx=1&sn=d3ef10a1ae3b8c161d7174cb42702fac": "【宝典】针对若依系统nday的常见各种姿势利用",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484460&idx=1&sn=6ba7a2f6ff911106081924401612c990": "2025HVV技战法丨0Day漏洞专项篇"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484460&idx=1&sn=6ba7a2f6ff911106081924401612c990": "2025HVV技战法丨0Day漏洞专项篇",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493493&idx=1&sn=b7596ba5e416cbb4fa3627f1f8cb1d0f": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式，末尾有免费的交流圈",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484513&idx=1&sn=132993e0a497be205789753df204de55": "【0day挖掘】怎么用“Rotor Goddess”轻松爆出过万资产的漏洞，以及其他小洞的出货方式与流程",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501334&idx=2&sn=c11ce042dbc5e02e25cdeaa2e8f4c5df": "【漏洞通告】VMware VMXNET3整数溢出漏洞(CVE-2025-41236)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484350&idx=1&sn=aa3db900309caf2a179befd3484960f2": "GeoServer存在默认口令admin:geoserver 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=2&sn=a02c958b20179cf6beb420d4491d6a11": "【风险提示】VMware多个高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531794&idx=2&sn=12cf79e2129fed86722ef157f501769c": "mcp-remote 中存在严重 RCE 漏洞：CVE-2025-6514，威胁 LLM 客户端",
+    "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886119&idx=1&sn=04a2b85331e9310f8cd6ae41fdede5da": "攻防演练：如何防护0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247532377&idx=2&sn=8675b7e1c0b2211c3c1b5d4a22d28fa9": "数十亿手机可被监听，eSIM漏洞牵动全球通信生态"
 }
