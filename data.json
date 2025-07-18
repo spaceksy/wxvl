@@ -16149,5 +16149,11 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650211641&idx=1&sn=ff2dc976a59a468983e558afa92a912f": "安天智甲终端防御系统（EDR）产品升级通告：紧急防护微信PC版远程代码执行（RCE）漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484515&idx=1&sn=d274ebd46203ed436d99ecc51abf3caf": "【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689)",
     "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485543&idx=1&sn=27fdaf09140f5ed6a76e8b2a56de657f": "微信安全漏洞，可实现无感上线",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=2&sn=c7cc15872799f6b7c9dcee62f1ced6e6": "谷歌AI “Big Sleep” 提前阻止严重的SQLite 漏洞遭利用"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=2&sn=c7cc15872799f6b7c9dcee62f1ced6e6": "谷歌AI “Big Sleep” 提前阻止严重的SQLite 漏洞遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTAxMjA5Mg==&mid=2247484495&idx=1&sn=4f565a89e230b4cfbbfb7df78fa9706a": "CVE-2025-23267挖掘报告: GPU容器逃逸再现",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574036&idx=1&sn=d5ebf7d79a401f316d47e289ace1f87f": "【SRC实战】支付逻辑漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070714&idx=2&sn=49209de3fb35fbb8e54342a5c92305c5": "【安全圈】美政府用的“Signal 替代品”TeleMessage SGNL 爆出严重漏洞，堆内存泄露已被黑客利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492884&idx=1&sn=06c9c888b83ac5f3d08b8dc4cc2548e0": "【风险提示】VMware ESXi、Workstation、Fusion及Tools多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900981&idx=1&sn=7193267d6a1eda3a431e9274ea71b2ad": "一个字符引发的血案：Wing FTP服务器漏洞(CVE-2025-47812)正被全球利用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325149&idx=1&sn=a96d58d36336bf2c82920a7e1f872749": "NVIDIA Container Toolkit漏洞可导致权限提升任意代码执行"
 }
