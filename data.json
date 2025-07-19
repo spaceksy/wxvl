@@ -16173,5 +16173,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492628&idx=1&sn=6328dbcbf1e55c176f7181178a068c63": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501013&idx=1&sn=420fc5b4e581e4d2936021ed3fd6c4ee": "【严重漏洞】微信客户端远程代码执行漏洞，陌生聊天记录不要点击",
     "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651134417&idx=1&sn=1c647891bc2a1a3fc76593fb82274590": "美国铁路关基系统曝漏洞，英国零售商650万数据遭窃取|一周特辑",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483889&idx=1&sn=6bb6d8ea877e63aeb8bc1394cfc9cc39": "API签名机制逆向破解实战：从代码审计到全局越权"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483889&idx=1&sn=6bb6d8ea877e63aeb8bc1394cfc9cc39": "API签名机制逆向破解实战：从代码审计到全局越权",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490046&idx=1&sn=3e3b0e6e437b0c67ab0fee641495004c": "WX RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325149&idx=4&sn=def91ead440f78d348db5fd03eb51f18": "SonicWall SMA设备零日RCE漏洞遭利用，部署OVERSTEP勒索软件"
 }
