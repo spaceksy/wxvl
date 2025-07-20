@@ -16188,5 +16188,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492816&idx=1&sn=6eb49110f0c5c62383b27221af9580ae": "Oracle云代码编辑器曝RCE漏洞，允许攻击者上传恶意文件",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650630794&idx=1&sn=f4129ab9edd27f2f2db8d6ec901dfe84": "微信安全漏洞引关注｜安恒终端安全以原生防护筑牢微信 RCE 防线",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518061&idx=1&sn=e5c993ddd41593392c3fadfe8f8fae8a": "OSED = Windows 漏洞利用 + 逆向工程",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488334&idx=1&sn=3a054f59101088cae6b4a5ff415533fb": "紧急安全通告 Microsoft SharePoint 反序列化远程代码执行漏洞 (CVE-2025-53770) 风险预警"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488334&idx=1&sn=3a054f59101088cae6b4a5ff415533fb": "紧急安全通告 Microsoft SharePoint 反序列化远程代码执行漏洞 (CVE-2025-53770) 风险预警",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900983&idx=1&sn=3d4458bba407897627376170973de9b3": "旧漏洞的“新魔术”：从Linuxsys到GhostContainer，深度解析攻击者的“合法化伪装”",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489623&idx=1&sn=35978a7efb9a7ed2dffcccade99bc7e2": "你从未听说过的最流行调查软件中的远程代码执行漏洞 (RCE)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531904&idx=1&sn=a6e51b35fcb2e9e06f4f4895864fe053": "预授权 SQL 注入至 RCE - Fortinet FortiWeb Fabric 连接器 (CVE-2025-25257)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500946&idx=3&sn=c5bbf571b7151ad4830b959d09210954": "SharePoint 服务器漏洞正遭受大规模利用"
 }
