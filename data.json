@@ -16197,5 +16197,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491976&idx=1&sn=f20af65d96b6110fb508b76ef107652e": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483934&idx=1&sn=d5857143ae8cc3a4efc5a0e53ced58cf": "东胜物流软件 WmsZXFeeGridSource.aspx SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492673&idx=1&sn=cd40b0087ed6c60e12cd56cc448f2084": "java代码审计之smbms",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=1&sn=050b8e30630112c924e35a27ee30ecd3": "【安全圈】赶快升级！微信Windows端安全漏洞曝光 黑客可执行远程代码"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=1&sn=050b8e30630112c924e35a27ee30ecd3": "【安全圈】赶快升级！微信Windows端安全漏洞曝光 黑客可执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487834&idx=1&sn=ab354dd326ae72b7c8f31e4dc3c183e7": "新手练习向——基于文件上传漏洞获得网站shell权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=1&sn=ce2b54456146391c0e5277a33022645d": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=2&sn=18fd68348f0aa5ac8cf42fe1d25cfe00": "CVE-2025-30762｜Oracle WebLogic Server存在未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524382&idx=1&sn=b3949b61e1b5f733191292af2213769c": "OSWE = 白盒审计 + 漏洞武器化"
 }
