@@ -16209,5 +16209,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=2&sn=f472eeedc4d17f52b659a903246f212e": "CVE-2025-48799｜Windows Update 服务本地权限提升漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517015&idx=1&sn=cbce3ba912ffe6f93a78b4961dd09fee": "红队快速检索漏洞储备工具 -- VRST（7月16日更新）",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=1&sn=89febd1aefe606db1792ffd89f135a01": "漏洞预警 | SemCms SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494397&idx=1&sn=2d557a6310019c001a326ad3a02cf112": "【在野利用】暂无补丁！Microsoft SharePoint 远程代码执行漏洞（CVE-2025-53770）"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494397&idx=1&sn=2d557a6310019c001a326ad3a02cf112": "【在野利用】暂无补丁！Microsoft SharePoint 远程代码执行漏洞（CVE-2025-53770）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=1&sn=21b1f6fa50c3940fcc233309b4c86305": "Fortinet FortiWeb漏洞CVE-2025-25257在PoC发布数小时后遭利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484093&idx=1&sn=5ae7bfff27bf05c2f407d40a0c61a491": "契约锁pdfverifier RCE攻防绕过史",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486586&idx=1&sn=a64429cb46676df4b223b1e98cd3ad4b": "代码审计-thinkphp历史漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650990970&idx=1&sn=70703fd989d5db86ff515653bf9aaf50": "原创 Paper | CitrixBleed 2 (CVE-2025-5777) 成因分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611483&idx=4&sn=e411feca05ba6e1665dc387679d976c8": "存储桶配置漏洞检测浏览器插件"
 }
