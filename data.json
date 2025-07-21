@@ -16217,5 +16217,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611483&idx=4&sn=e411feca05ba6e1665dc387679d976c8": "存储桶配置漏洞检测浏览器插件",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096406&idx=1&sn=37ee7dab851324ca4ecb1e2e32c41326": "Sophos Intercept X for Windows 支持任意代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494434&idx=1&sn=f85a9125e3a2b4c7eb1bf4c737ee71d2": "契约锁pdfverifier RCE攻防绕过史",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=4&sn=423efc0dc6144bdfef13a5837b03e1ae": "HPE Instant On设备存在硬编码凭证漏洞，可获取管理员权限"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=4&sn=423efc0dc6144bdfef13a5837b03e1ae": "HPE Instant On设备存在硬编码凭证漏洞，可获取管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260356&idx=1&sn=8c35649fee80bddd9924b08f386bdcaf": "为何必须突破工具漏洞清单思维，照亮安全盲区",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487598&idx=1&sn=ea41e76ec767e519046d6ce0caf0f8d1": "FortiWeb CVE-2025-25257",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488342&idx=1&sn=13c7a552f3f257e728b02b065e002ba2": "HW（2025-7-21）护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247783&idx=1&sn=60aa38bca36fb49150e537c868698a54": "原创 Paper | CitrixBleed 2 (CVE-2025-5777) 成因分析",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247492134&idx=1&sn=5ffe2bbd8eca2687e479c0248177818e": "网络安全行业，在漏洞与补丁之间，其实我们都是幸存者",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497483&idx=1&sn=09869705c50afddbeffd230575a11f95": "一款面向安全运维场景的集成化利器，融合了资产管理、资产测绘、漏洞检测、配置核查、弱口令检测、批量运维、漏洞跟踪以及日志审计等功能",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493415&idx=1&sn=0a6c89c645cd322031111cb9ac6001f8": "若依系统前台+后台漏洞总结：RuoYi框架九大高危漏洞攻防指南|挖洞技巧"
 }
