@@ -16231,5 +16231,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555508&idx=2&sn=2243c70f76b94a4e6021c0c6f5f134bf": "【免费领】网安从业必备：Web漏洞检测及修复方案大全",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486584&idx=1&sn=30086c0ff3368412fd572e153864ce3f": "【工具分享】web 日志分析工具 v3.0，支持漏洞日志检测类型包括：sql注入、命令执行、 代码执行、文件上传",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498076&idx=1&sn=acc7a4823d45f270ce926bf990ddb032": "【SRC实战】验证码漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484960&idx=1&sn=ad43cab8df06b479660c3c71137eb642": "【漏洞复现】大华智能物联网综合管理平台 receive 命令执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484960&idx=1&sn=ad43cab8df06b479660c3c71137eb642": "【漏洞复现】大华智能物联网综合管理平台 receive 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493794&idx=1&sn=23458646401be62b9d63135180ab883d": "漏洞预警 | LaRecipe服务器端模板注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=1&sn=28783f7f38aca937197c716460e77131": "CNVD漏洞周报2025年第27期",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486588&idx=1&sn=4c73c6313fbabb62e51901d399c7a8e6": "WAF绕过-漏洞利用篇-sql注入+文件上传-过狗",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484521&idx=1&sn=9ee8b714f11d357e001eb697832c9521": "AI 自主调用 BurpSuite 完成漏洞自动化检测"
 }
