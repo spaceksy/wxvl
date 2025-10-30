@@ -1,39 +1,54 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
-
 name: update
 
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 */4 * * *'
+
 permissions:
-  contents: write
+  contents: write  # 允许 workflow 推送到仓库
+
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
+    # 1️⃣ 检出仓库
     - uses: actions/checkout@v3
+
+    # 2️⃣ 安装 Python
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
         python-version: "3.10"
+
+    # 3️⃣ 安装依赖
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+
+    # 4️⃣ 运行你的更新脚本
     - name: update
-      env: 
-         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         python run.py today | tee /tmp/update.log
+
+    # 5️⃣ 如果有文件变更就 commit 并推送
     - name: Commit and push if changed
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用 GitHub 自动注入 token
       run: |
-        git config --global user.email "test"
-        git config --global user.name "test"
+        # 配置 git 用户
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+
+        # 添加所有更改
         git add .
-        MESSAGE=$(cat /tmp/update.log)
-        COMMIT_MESSAGE="$MESSAGE"
-        git diff-index --quiet HEAD || git commit -m "$(echo -e "$COMMIT_MESSAGE")"
-        git push
+
+        # 读取日志的前10行作为 commit message，防止过长
+        COMMIT_MESSAGE=$(head -n 10 /tmp/update.log | tr -d '\r')
+
+        # 仅当有变化时 commit
+        git diff-index --quiet HEAD || git commit -m "$COMMIT_MESSAGE"
+
+        # 使用自动 token 推送到当前分支
+        git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${GITHUB_REF_NAME}
