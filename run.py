@@ -147,7 +147,7 @@ def get_doonsec_url():
     }
 
     try:
-        response = requests.get('https://wechat.doonsec.com/rss.xml', cookies=cookies, headers=headers)
+        response = requests.get('https://wechat.doonsec.com/rss.xml', cookies=cookies, headers=headers, verify=False)
         response.encoding = response.apparent_encoding
 
         # XML 解析
