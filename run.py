@@ -10,6 +10,18 @@ import shutil
 import subprocess
 import datetime
 
+import ssl
+import urllib3
+import warnings
+
+# 忽略 SSL 警告
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+warnings.filterwarnings("ignore", category=UserWarning, module='urllib3')
+
+# 全局禁用 SSL 验证
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
 
 def write_json(path, data, encoding="utf8"):
     """写入json"""
